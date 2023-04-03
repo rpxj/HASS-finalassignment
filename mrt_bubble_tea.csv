@@ -1,0 +1,599 @@
+MRT_Station,Name,Rating,Address,Lat,Lng
+EUNOS MRT STATION,LiHO TEA @ Eunos MRT,3.8,"30 Eunos Cres, #01-05, Singapore",1.3197379,103.902867
+EUNOS MRT STATION,Qiu Qiu Tea / 球球 Tea,4.9,"5 Eunos Cres, #01-2605, Singapore",1.3211176,103.9033427
+EUNOS MRT STATION,Gong Cha Classic,4.5,"30 Eunos Cres, #01-10 Eunos MRT Station, Singapore",1.3196998,103.902894
+EUNOS MRT STATION,Sg Bubble Tea,0.0,Singapore,1.3164979,103.9003723
+EUNOS MRT STATION,Sweet.Tooth,0.0,"55 Changi Rd, #01-14, Singapore",1.3169742,103.8990086
+KHATIB MRT STATION,Ulu Tea,3.3,"Yishun Street 81, #01-3657 Block 846, Singapore",1.4162948,103.8343899
+KHATIB MRT STATION,iTEA,3.3,"846 Yishun Ring Rd, #01-3627 Khatib Central, Singapore",1.4167918,103.8345779
+KHATIB MRT STATION,sweettalk,0.0,"Blk 846 Yishun Ring Rd, #01-3629, Singapore",1.4169862,103.8349203
+REDHILL MRT STATION,LiHO TEA @ Redhill MRT,4.0,"920 Tiong Bahru Rd, #01-08, Singapore",1.2897139,103.8167487
+REDHILL MRT STATION,CHAGEE 霸王茶姬 @ Artra,4.0,"12 Alexandra View, #01-09 Artra, Singapore",1.290032,103.8172725
+YEW TEE MRT STATION,LiHO TEA @ Yew Tee Point,3.0,"21 Choa Chu Kang North 6 #B1-43, Yew Tee Point",1.3971183,103.7468323
+YEW TEE MRT STATION,R&B Tea,3.6,"21 Choa Chu Kang North 6, #01-49 Yew Tee Point, Singapore",1.3968778,103.7468194
+YEW TEE MRT STATION,KOI CAFE,3.4,"61 Choa Chu Kang Dr, #01-03, Singapore",1.3972972,103.7473277
+YEW TEE MRT STATION,Bee-Live Beverage & Dessert,4.3,"21 Choa Chu Kang North 6, B1, TS2",1.3970036,103.7468379
+PIONEER MRT STATION,Sweet Talk Bubble Tea,5.0,"Pioneer SMRT Station, 31 Jurong West Street 63",1.3375418,103.6968251
+PIONEER MRT STATION,Tea Dough,4.3,"638 Jurong West Street 61, #01-04B Pioneer Mall, Singapore",1.3418264,103.6971934
+PAYA LEBAR MRT STATION,Hollin Singapore SingPost Centre,4.3,"10 Eunos Rd 8, #01-133, Singapore",1.3189418,103.8944605
+PAYA LEBAR MRT STATION,KOI Cafe,4.0,"30 Paya Lebar Rd, Singapore",1.3181257,103.8926273
+PAYA LEBAR MRT STATION,Gong Cha,4.1,"10 Eunos Rd 8, #01-141A 141B, Singapore",1.318424,103.8936349
+PAYA LEBAR MRT STATION,CHICHA San Chen PLQ,4.2,"10 Paya Lebar Rd, #02-27 PLQ Mall, Singapore",1.3173198,103.892442
+PAYA LEBAR MRT STATION,Hopii Mungbean Smoothie 何必問 绿豆冰沙 （台湾-高雄）,3.8,"#01-107A ,10 Eunos Road 8 Singapore Post Centre",1.3191881,103.8934256
+PAYA LEBAR MRT STATION,The Alley Paya Lebar,3.4,"30 Paya Lebar Road, #01-10 , Paya Lebar MRT Station",1.3181412,103.8931028
+PAYA LEBAR MRT STATION,Milksha - Singpost Centre,3.6,"10 Eunos Rd 8, #B1-150, Singapore",1.3189506,103.8942252
+PAYA LEBAR MRT STATION,iTEA,3.3,"60 Paya Lebar Rd, #01-50 Paya Lebar Square, Singapore",1.3184358,103.8927403
+PAYA LEBAR MRT STATION,LiHO TEA @ KINEX,3.4,"11 Tanjong Katong Rd, #B1-K19, Singapore",1.3149868,103.8946433
+PAYA LEBAR MRT STATION,KOI Thé @ PLQ Mall,2.6,"10 Paya Lebar Rd, Paya Lebar Quarter, #B1-02, Singapore",1.3174185,103.8927913
+PAYA LEBAR MRT STATION,Little Red Dot Tea,4.8,"11 Tanjong Katong Road, KINEX, #B1-30",1.3149868,103.8946433
+PAYA LEBAR MRT STATION,半仙豆夫 Chinese Tofu Magician SG,3.7,"60 Paya Lebar Rd, #01-51 Paya Lebar Square, Singapore",1.3184358,103.8927403
+SIMEI MRT STATION,LiHO TEA,4.0,"3 Simei Street 6, #01-K1, Eastpoint Mall, Singapore",1.3427303,103.9530181
+SIMEI MRT STATION,Gong Cha Classic,3.6,"30 Simei St 3, #01-04 Simei MRT Station, Singapore",1.3426409,103.953727
+SIMEI MRT STATION,CHICHA San Chen Eastpoint Mall,2.9,"Eastpoint Mall, Simei Street 6, #02-K1 3",1.3427303,103.9530181
+SIMEI MRT STATION,AtTea 署茗職茶 @ Eastpoint Mall,4.6,"3 Simei Street 6, #01-04 Eastpoint Mall, Singapore",1.3424991,103.9533804
+SIMEI MRT STATION,Keko Bubble Tea Zone,0.0,"3 Simei Street 6, Singapore",1.342806,103.952974
+TAMPINES MRT STATION,LiHO TEA @ Tampines Mall,3.9,"4 Tampines Central 5, #B1-K5, Singapore",1.3523139,103.9447899
+TAMPINES MRT STATION,CHICHA San Chen Tampines 1,3.5,"Tampines Central 1, B1-32 10, Singapore",1.3542141,103.9452271
+TAMPINES MRT STATION,PlayMade,4.0,"10 Tampines Central 1, #01-59, Singapore",1.3537585,103.9453215
+TAMPINES MRT STATION,Milksha,4.5,"10 Tampines Central 1, #01-38 Tampines One, Singapore",1.3542494,103.9449322
+TAMPINES MRT STATION,R&B Tea,3.3,"20 Tampines Central 1, #01-18 Tampines MRT Station, Singapore",1.3536288,103.944966
+TAMPINES MRT STATION,KOI Express,3.9,"20 Tampines Central 1, #01-14 Tampines MRT Station, Singapore",1.3532317,103.945092
+TAMPINES MRT STATION,Bober Tea @ Tampines Century Square,3.7,"2 Tampines Central 5, #B1-27 Tampines, Century Square, Singapore",1.3524522,103.9438545
+TAMPINES MRT STATION,Le Yi Bei (乐一杯) Bubble Tea,3.5,"419 Tampines Street 41, #01-98 Block 419, Singapore",1.3577848,103.9467851
+TAMPINES MRT STATION,KOI Café,4.2,"510 Tampines Central 1, Singapore",1.354866,103.9442793
+TAMPINES MRT STATION,Gong Cha,3.8,"20 Tampines Central 1, #01-30 Tampines MRT Station, Singapore",1.3535537,103.9449445
+TAMPINES MRT STATION,Bumble Tea,4.3,"164 Tampines Street 12, Singapore",1.3495577,103.9460777
+TAMPINES MRT STATION,The Alley Tampines 1,3.5,"10 Tampines Central 1, #02-K3, Singapore",1.354144,103.9452358
+ADMIRALTY MRT STATION,Teavana Bubble Tea (Kampung Admiralty),3.0,"676 Woodlands Drive 71, #01-17, Singapore",1.4394636,103.8005873
+ADMIRALTY MRT STATION,LiHO TEA @ Woodlands Galaxy CC,3.4,"31 Woodlands Ave 6, #01-03 Galaxy Community Centre, Singapore",1.4390371,103.8025629
+ADMIRALTY MRT STATION,I-tea,4.0,"678A Woodlands Ave 6, #01-06A, Singapore",1.4403078,103.8012046
+ADMIRALTY MRT STATION,iTEA - Admiralty,0.0,"Blk 678A Woodlands Ave 6, #01-06A, Singapore",1.4404732,103.8017932
+YISHUN MRT STATION,LiHO TEA,3.9,"930 Yishun Avenue 2, #01-17, Northpoint City North Wing, Singapore",1.4297932,103.8357548
+YISHUN MRT STATION,KOI Café,4.2,"51 Yishun Central 1, #01-02 Golden Village Yishun, Singapore",1.4298136,103.8362151
+YISHUN MRT STATION,KOI Thé Express @ Northpoint City,4.1,"1 North Point Dr, #B2-157 South Wing of Northpoint City, Singapore",1.4281699,103.8361007
+YISHUN MRT STATION,Gong Cha,3.6,"930 Yishun Ave 2, Northpoint City North Wing, #01-06, Singapore",1.429298,103.835672
+YISHUN MRT STATION,World Tea House Yishun,4.5,"Blk 748 Yishun Street 72, #01-222, Singapore",1.4278372,103.83343
+YISHUN MRT STATION,PlayMade by 丸作,3.6,"1 Northpoint Drive, South Wing, #01-154 of, Northpoint City",1.4284725,103.8359864
+YISHUN MRT STATION,iTEA Northpoint City,4.1,"1 Northpoint Drive, Northpoint City South Wing, #B2-119, Singapore",1.4284302,103.835353
+YISHUN MRT STATION,Libertea Singapore 自由轩 (Yishun),5.0,"Yishun Bus Interchange, Yishun Ave 2, #01-21",1.4281564,103.8358508
+PASIR RIS MRT STATION,LiHO TEA,4.0,"1 Pasir Ris Central St 3, #01-12A, Singapore",1.372336,103.949944
+PASIR RIS MRT STATION,Gong Cha Classic,4.0,"Pasir Ris Central, 10号, MRT Station, #01-06",1.3731143,103.9493411
+PASIR RIS MRT STATION,Koi Thé @ White Sands Mall,4.3,"1 Pasir Ris Central St 3, #01-32 White Sands, Singapore",1.3725171,103.9493114
+PASIR RIS MRT STATION,CHICHA San Chen White Sands,5.0,"1 Pasir Ris Central St 3, #01-39B White Sands, Singapore",1.3724166,103.9496584
+CLEMENTI MRT STATION,Koi Café,4.2,"3155 Commonwealth Ave W, Singapore",1.3147705,103.7644865
+CLEMENTI MRT STATION,LiHO TEA @ Clementi Mall,3.8,"3155 Commonwealth Ave W, #B1-K6 Clementi Mall, Singapore",1.3153122,103.7645408
+CLEMENTI MRT STATION,Bober Tea @ Clementi,4.6,"Blk 442 Clementi Ave 3, #01-89, Singapore",1.3144179,103.7645887
+CLEMENTI MRT STATION,MIXUE,4.0,"3151 Commonwealth Ave W, #01-09, Singapore",1.3142179,103.765169
+CLEMENTI MRT STATION,iTEA,3.9,"442 Clementi Ave 3, #01-87 Clementi Town Centre, Singapore",1.3144913,103.7644425
+CLEMENTI MRT STATION,Femi's Tea - Clementi,5.0,"Clementi Ave 3, #01-283 block 450, Singapore",1.3135577,103.7654405
+CLEMENTI MRT STATION,37 Degrees Celsius,0.0,"441 Clementi Ave West, #01-04 Clementi Bus Interchange, Singapore",1.3155355,103.7641443
+ALJUNIED MRT STATION,LiHO TEA,3.8,"81 Lor 25 Geylang, #01-01 Aljunied MRT Station, Singapore",1.3165977,103.8833123
+ALJUNIED MRT STATION,Coconut Shack,0.0,"345 Geylang Rd, B1-15 Pavilion Square, Singapore",1.3128902,103.8798388
+ALJUNIED MRT STATION,旺多福 Wonderfruit Tea,0.0,"574 Geylang Rd, Singapore",1.31399,103.8872463
+ALJUNIED MRT STATION,Golden Coin Bar,2.5,"370 Geylang Rd, Singapore",1.3128287,103.8814367
+ALJUNIED MRT STATION,ORCA Whale Tea (Bubble Tea),3.7,"118 Aljunied Ave 2, #01-104, Singapore",1.3202683,103.8872887
+ANG MO KIO MRT STATION,LiHO TEA @ Ang Mo Kio HUB,3.9,"53 Ang Mo Kio Avenue 3, #B2-57, AMK Hub, Singapore",1.3693251,103.8487699
+ANG MO KIO MRT STATION,No.17tea,3.8,"Blk 703 Ang Mo Kio Ave 8, #01-2539, Singapore",1.3698779,103.8473833
+ANG MO KIO MRT STATION,CHICHA San Chen AMK Hub,3.8,"53 Ang Mo Kio Ave 3, B1-65A/65B AMK Hub, Singapore",1.3690023,103.8481594
+ANG MO KIO MRT STATION,CHAGEE 霸王茶姬 @ Ang Mo Kio Central,3.2,"Blk 711 Ang Mo Kio Ave 8, #01-3501E, Singapore",1.3714442,103.8479386
+ANG MO KIO MRT STATION,KOI Thé,4.2,"53 Ang Mo Kio Ave 3, #01-44, Singapore",1.3692775,103.8475199
+ANG MO KIO MRT STATION,World Tea House Ang Mo Kio 世界茶饮,4.8,"703 Ang Mo Kio Ave 8, #01-2531, Singapore",1.3696085,103.8474183
+ANG MO KIO MRT STATION,J&J Tea,5.0,"525 Ang Mo Kio Ave 10, #01-2395, Singapore",1.3725494,103.8540561
+ANG MO KIO MRT STATION,TEAHOLIAOZ,4.8,"421 Ang Mo Kio Ave 10, #01-1161, Singapore",1.3653428,103.8528341
+ANG MO KIO MRT STATION,LiHO TEA @ Jubilee Square,3.6,"61 Ang Mo Kio Ave 8, #01-14 Jubilee Square, Singapore",1.371664,103.847826
+ANG MO KIO MRT STATION,iTEA AMK HUB,2.0,"53 Ang Mo Kio Ave 3, B1-66/67/68 AMK Hub, Singapore",1.3696302,103.8482042
+ANG MO KIO MRT STATION,Nano Partea AMK 705,5.0,"705 Ang Mo Kio Ave 8, #01-2563, Singapore",1.3731559,103.8542607
+ANG MO KIO MRT STATION,KOI Thé Express,3.0,"2450 Ang Mo Kio Ave 8, #01-05 MRT Station, Singapore",1.3693668,103.8498631
+EXPO MRT STATION,LiHO TEA @ Changi City Point,4.0,"5 Changi Business Park Central 1, #B1 - 41, Singapore",1.3344156,103.9624248
+EXPO MRT STATION,KOI Express,4.1,"5 Changi Business Park Central 1, #B1-18 Changi City Point, Singapore",1.3345204,103.963376
+EXPO MRT STATION,Femi's Tea - 100% Natural,4.9,"6 Changi Business Park Ave 1 ESR Bizpark@Changi, #01-23, Behind FairPrice Xtra",1.3350589,103.9638392
+EXPO MRT STATION,Chagee 霸王茶姬 @ Changi City Point,4.9,"5 Changi Business Park Central 1 Changi City Point, B1-04, Singapore",1.3343497,103.9626223
+EXPO MRT STATION,Societea,4.7,"The Signature@51 Changi Business Park Central 2, Broadway #01-01",1.3343863,103.9657728
+EXPO MRT STATION,Hey Long Cha @ Changi City Point,4.1,"5 Changi Business Park Central 1, #01-K11, Singapore",1.3342757,103.9625596
+CHOA CHU KANG MRT STATION,LiHO TEA,4.2,"21 Choa Chu Kang Ave 4, #B1 - K30, Singapore",1.3849075,103.7449784
+CHOA CHU KANG MRT STATION,KOI Thé Express Choa Chu Kang MRT,4.0,"50A Choa Chu Kang Loop, #01-15, Singapore",1.3860445,103.7442847
+CHOA CHU KANG MRT STATION,Sharetea - Choa Chu Kang MRT Station,4.8,"50A Choa Chu Kang Loop, #01-05 MRT Station, Singapore",1.3856762,103.7444333
+CHOA CHU KANG MRT STATION,Gong Cha,3.7,"21 Choa Chu Kang Avenue 4, #04-18A, Lot, one, Singapore",1.3852086,103.7449371
+CHOA CHU KANG MRT STATION,Fruit Boom,0.0,"21 Choa Chu Kang Ave 4, Singapore",1.3852086,103.7449371
+JURONG EAST MRT STATION,LiHO TEA,3.2,"50 Jurong Gateway Rd, #B1-30 Jem, Singapore",1.3332835,103.7430637
+JURONG EAST MRT STATION,Milksha,3.6,"3 Gateway Dr, B1-24A Westgate, Singapore",1.3343784,103.7427835
+JURONG EAST MRT STATION,Sharetea,3.3,"2 Jurong East Central 1, #B1-K01, Singapore",1.3334568,103.7402139
+JURONG EAST MRT STATION,PlayMade by 丸作 @ Westgate,3.8,"3 Gateway Dr, #01-K1, Singapore",1.3339279,103.7428614
+JURONG EAST MRT STATION,Koi Cafe Westgate,3.9,"3 Gateway Dr, #B1-27 Westgate, Singapore",1.3343088,103.7431968
+JURONG EAST MRT STATION,Gong Cha,3.8,"3 Gateway Dr, #02-49 Westgate, Singapore",1.3342419,103.7423913
+JURONG EAST MRT STATION,Miss Tea,4.2,"2 Jurong East Central 1, #B1-K13 JCube, Singapore",1.3332072,103.740167
+JURONG EAST MRT STATION,Wanpo Tea Shop (JEM),5.0,"50 Jurong Gateway Rd, #03 - 10, Singapore",1.3336274,103.7433248
+JURONG EAST MRT STATION,KOI THÉ,3.4,"2 Jurong East Central 1, #01-03 JCube, Singapore",1.3334974,103.7404631
+JURONG EAST MRT STATION,CHICHA San Chen JEM,4.1,"50 Jurong Gateway Rd, #01 - 17 JEM, Singapore",1.333346,103.743704
+JURONG EAST MRT STATION,iTEA Jurong East,4.1,"135 Jurong Gateway Rd, #01-327, Singapore",1.3338318,103.7397319
+JURONG EAST MRT STATION,CHAGEE 霸王茶姬 @ JCube,4.3,"2 Jurong East Central 1, #03-02 JCube, Singapore",1.3334283,103.7403199
+JURONG EAST MRT STATION,Sweet Potato Factory@jcube,5.0,"2 Jurong East Central 1, #B1-12, Singapore",1.3334283,103.7403199
+JURONG EAST MRT STATION,AtTea 署茗職茶 @ JEM,4.6,"50 Jurong Gateway Rd, #B1 - 15 Jem, Singapore",1.3337765,103.7436699
+JURONG EAST MRT STATION,吃茶三千,3.7,Gateway Dr,1.3341528,103.7424587
+QUEENSTOWN MRT STATION,Sharetea Premium Stirling Road,4.0,"49 Stirling Rd, #01-493, Singapore",1.2975294,103.8022686
+WOODLANDS MRT STATION,each a cup @ Causeway Point,3.8,"1 Woodlands Square, #B1-K19 Causeway Point, Singapore",1.4361406,103.7858271
+WOODLANDS MRT STATION,CHICHA San Chen Woodlands,3.5,"1 Woodlands Square, #01-33, Singapore",1.4366739,103.7860269
+WOODLANDS MRT STATION,Gong Cha,3.6,"1 Woodlands Square, #02-K10 Causeway Point, Singapore",1.4360933,103.7859471
+WOODLANDS MRT STATION,Milksha - Woods Square (Tower 2),3.8,"6 Woodlands Square, B2-10, Singapore",1.434824,103.7861018
+WOODLANDS MRT STATION,Koi Express,3.6,"11 Woodlands Square, #B1-26, Singapore",1.4355585,103.7857044
+WOODLANDS MRT STATION,KOI Thé,3.2,"30 Woodlands Avenue 2, #01-16, Woodlands MRT Station",1.4368968,103.7865809
+WOODLANDS MRT STATION,Milksha Singapore,4.0,"6 Woodlands Square, B2-10, Singapore",1.434824,103.7861018
+WOODLANDS MRT STATION,Gong Cha Classic,3.6,"30 Woodlands Ave 2, #01-40 Woodlands MRT Station, Singapore",1.4370767,103.7868716
+KALLANG MRT STATION,LiHO TEA,4.2,"5 Sims Ave, #01-03 Kallang MRT, Station, Singapore",1.3114202,103.8713119
+BUONA VISTA MRT STATION,LiHO TEA,3.3,"1 Vista Exchange Green, B1-39 The Star Vista, Singapore",1.3068072,103.7883997
+BUONA VISTA MRT STATION,KOI Thé,4.2,"100 North Buona Vista Rd, #01-02/03 Buona Vista MRT Station, Singapore",1.3072964,103.7901128
+BUONA VISTA MRT STATION,PlayMade by 丸作,3.9,"100 North Buona Vista Rd, #01-08 Buona Vista MRT Station, Singapore",1.3072072,103.7900991
+DOVER MRT STATION,Each-a-Cup,2.4,"200 Commonwealth Ave W, #02-02 Dover MRT Station, Singapore",1.3114722,103.7784322
+SEMBAWANG MRT STATION,LiHO TEA,3.6,"30 Sembawang Dr, #01-19 Sun Plaza, Singapore",1.4482678,103.8196887
+SEMBAWANG MRT STATION,KOI Thé,3.3,"30 Sembawang Dr, #02-09 Sun Plaza, Singapore",1.4482006,103.8195564
+SEMBAWANG MRT STATION,AtTea 署茗職茶 @ Sun Plaza,4.4,"30 Sembawang Dr, #01-06 Sun Plaza, Singapore",1.4482678,103.8196887
+KEMBANGAN MRT STATION,延禧堂 Yan Xi Tang @ Kembangan,4.2,"55 Sims Avenue East, #01-04, Kembangan MRT Station",1.3209589,103.9126762
+BUKIT BATOK MRT STATION,LiHO TEA @ Bukit Batok MRT,3.6,"10 Bukit Batok Central, #01-02 MRT, Singapore",1.348872,103.7494513
+BUKIT BATOK MRT STATION,KOI Thé,4.2,"10 Bukit Batok Central, #01-07, Singapore",1.3494357,103.7498285
+BOON LAY MRT STATION,KOI The Cafe,4.1,"1 Jurong West Central 2, #02-41C Shopping Centre, Jurong Point, Singapore",1.3404055,103.7063328
+BOON LAY MRT STATION,LiHO TEA @ Jurong Point 2,3.5,"63 Jurong West Central 3, #03-89E, Singapore",1.3392697,103.7051807
+BOON LAY MRT STATION,PlayMade by 丸作 @ Jurong Point,3.2,"1 Jurong West Central 2, #B1-36A, Singapore",1.3399257,103.7062886
+BOON LAY MRT STATION,CHICHA San Chen Jurong Point,4.6,"63 Jurong West Central 3, #03-32/33 Jurong Point, Singapore",1.339742,103.7044964
+BOON LAY MRT STATION,The Whale Tea SG - Jurong Point (琉璃鯨),3.5,"63 Jurong West Central 3, #01-45/46 Jurong Point, Singapore",1.3387925,103.7051334
+BOON LAY MRT STATION,KOI Thé Express @ Boon Lay MRT,0.0,"301 Boon Lay Way, #01-34 Boon Lay MRT Station, Singapore",1.3383863,103.7058398
+BOON LAY MRT STATION,Shiokcup,0.0,"63, Jurong West Central 3 #01-33, #2 Jurong Point",1.3394886,103.7052064
+BOON LAY MRT STATION,The Soy Inc,4.1,"Jurong West Central 2, #03-89G Jurong Point, Singapore",1.3402108,103.706011
+BOON LAY MRT STATION,Mr. Coconut,4.1,"301 Boon Lay Way, #01-29 Boon Lay MRT Station, Singapore",1.3385559,103.7058277
+BOON LAY MRT STATION,iTEA,4.1,"301 Boon Lay Way, #01-30 Boon Lay MRT Station, Singapore",1.3380617,103.7065524
+BUKIT GOMBAK MRT STATION,LiHO TEA @ Bukit Gombak MRT Station,3.5,"802 Bukit Batok West Ave. 5, #01-01, Singapore",1.3592503,103.7517506
+BUKIT GOMBAK MRT STATION,KOI Express - Bukit Gombak,4.5,"802 Bukit Batok West Ave. 5, Singapore",1.3583524,103.751796
+BUKIT GOMBAK MRT STATION,Koi @ Bukit Gombak MRT Station,3.5,"802 Bukit Batok West Ave. 5, #01-15, Singapore",1.3592406,103.7518397
+MARSILING MRT STATION,iTEA Marsiling,3.0,"Marsiling 302 #01-287, Woodlands Street 31, Blk 302, Singapore",1.4315797,103.7740769
+BEDOK MRT STATION,LiHO TEA @ Bedok Mall,3.9,"311 New Upper Changi Rd, #B2-K16, Singapore",1.324511,103.929462
+BEDOK MRT STATION,Koi Thé @ Bedok Mall,3.9,"311 New Upper Changi Rd, #01-97, Singapore",1.3247796,103.9300222
+BEDOK MRT STATION,Bober Tea @ Bedok Central,3.9,"205 Bedok North Street 1, #01-379, Singapore",1.3258987,103.9306464
+BEDOK MRT STATION,Gong Cha,3.3,"205 Bedok North Street 1, #01-381 Bedok Town Centre, Singapore",1.3260089,103.9309399
+JOO KOON MRT STATION,Koi Thé Express @ Joo Koon MRT,5.0,"91 Joo Koon Cir, #02 02, Singapore",1.3278565,103.6789076
+JOO KOON MRT STATION,Tea Social Cafe,4.8,"511 Upper Jurong Rd, Block B, #01-06/07 D'Arena, Singapore",1.3294741,103.6822694
+JOO KOON MRT STATION,SZ TeaHouse,3.5,"Fairprice Hub, Level 1 - #01-41, 1 Joo Koon Cir, Singapore",1.3270869,103.6786926
+LAKESIDE MRT STATION,Sweetie,0.0,"201 Boon Lay Way, Singapore",1.3442035,103.7207418
+YIO CHU KANG MRT STATION,Sweet Talk,2.0,"631 Ang Mo Kio Ave 4, Singapore",1.379551,103.8407935
+YIO CHU KANG MRT STATION,Doncha Bubble Tea,5.0,"180 Ang Mo Kio Ave 8, Blk P, level 2 south canteen, Nanyang Polytechnic, Singapore",1.3779087,103.8493146
+YIO CHU KANG MRT STATION,Tea Tree Cafe,4.3,"172 Ang Mo Kio Ave 8, #8 8, Singapore",1.377417,103.848858
+OASIS LRT STATION,R&B Tea,3.5,"681 Punggol Dr., #B1-03, Singapore",1.4026186,103.9130397
+OASIS LRT STATION,Each a cup,1.8,612A Punggol Dr.,1.4048194,103.9086389
+OASIS LRT STATION,KOI Thé @ Oasis Terraces,4.0,"681 Punggol Dr., #01-30 Oasis Terraces, Singapore",1.4025479,103.9129575
+SAM KEE LRT STATION,LiHO TEA @ Waterway Point,4.1,"#B2-K10, Waterway Point, 83 Punggol Central, Singapore",1.4066475,103.9022866
+SAM KEE LRT STATION,KOI Thé Express,4.0,"83 Punggol Central, #B1-K2, Singapore",1.4065645,103.9020722
+SAM KEE LRT STATION,CHICHA San Chen Waterway Point,4.5,"83 Punggol Central, #01-42 Waterway Point, Singapore",1.4067143,103.9027502
+FARMWAY LRT STATION,KOI @ SKH Campus,5.0,"1 Anchorvale St, #01-24, Singapore",1.3963094,103.8911356
+KUPANG LRT STATION,Bober Tea @ Esso Seng Kang,3.6,"Esso station @ 150, Sengkang W Way",1.3954333,103.8803127
+RENJONG LRT STATION,TeaGIF Snack Bar,3.3,"275D Compassvale Link, #01-10, Singapore",1.3827716,103.8937965
+RENJONG LRT STATION,KOI Express,4.0,"70 Compassvale Bow, B1-05 Sengkang Grand Mall, Singapore",1.3832715,103.8929509
+BUKIT PANJANG LRT STATION,LiHO TEA @ Bukit Panjang Plaza,3.9,"1 Jelebu Road, Bukit Panjang Plaza #01-21",1.3801103,103.764306
+BUKIT PANJANG LRT STATION,Koi Cafe,4.2,"17 Petir Rd, #B2-53, Singapore",1.3782836,103.7627251
+BUKIT PANJANG LRT STATION,CHICHA San Chen Hillion Mall,4.1,"17 Petir Rd, B2-17, Singapore",1.3784298,103.763132
+BUKIT PANJANG LRT STATION,each a cup @ Bukit Panjang Integrated Transport Hub,3.6,"15, #01-61 Petir Rd",1.3783857,103.7635192
+BUKIT PANJANG LRT STATION,LiHO TEA @ Junction 10,4.5,"1 Woodlands Rd, #01-26 Junction 10, Singapore",1.3804555,103.7600795
+BUKIT PANJANG LRT STATION,each a cup @ Senja-Cashew CC,3.0,"101 Bukit Panjang Rd, #01-03 Senja-Cashew CC, Singapore",1.3815707,103.7647199
+FAJAR LRT STATION,Dew Station,4.0,"524A Jelapang Road, #02-03 Greenridge Shopping Centre",1.3852549,103.7663585
+PUNGGOL LRT STATION,LiHO TEA @ Waterway Point,4.1,"#B2-K10, Waterway Point, 83 Punggol Central, Singapore",1.4066475,103.9022866
+PUNGGOL LRT STATION,KOI Thé Express,4.0,"83 Punggol Central, #B1-K2, Singapore",1.4065645,103.9020722
+PUNGGOL LRT STATION,CHICHA San Chen Waterway Point,4.5,"83 Punggol Central, #01-42 Waterway Point, Singapore",1.4067143,103.9027502
+PUNGGOL LRT STATION,Each a cup,1.7,"301 Punggol Central, #01-05, Singapore",1.4034516,103.9061232
+PUNGGOL LRT STATION,Tea Tree Cafe,2.7,"70 Punggol Central, #01-04, Singapore",1.404611,103.902153
+PUNGGOL LRT STATION,Tuk Tuk Cha @ Waterway Point,3.6,"83 Punggol Central, B1-K8 Waterway Point, Singapore",1.4066877,103.9022424
+SAMUDERA LRT STATION,KOI Thé @ Northshore Plaza,4.0,"408 Northshore Drive, #01-K3/K4/K5, Northshore Dr, I",1.4169062,103.9022242
+SOO TECK LRT STATION,Each-A-Cup,4.7,"218 Sumang Walk, #01-07 Matilda Portico, Singapore",1.4031952,103.8952696
+KADALOOR LRT STATION,R&B Tea,3.5,"681 Punggol Dr., #B1-03, Singapore",1.4026186,103.9130397
+KADALOOR LRT STATION,KOI Thé @ Oasis Terraces,4.0,"681 Punggol Dr., #01-30 Oasis Terraces, Singapore",1.4025479,103.9129575
+CORAL EDGE LRT STATION,Hollin Singapore Punggol Plaza,4.0,"168, 01-09 Punggol Field, Punggol Plaza",1.3941746,103.9130396
+THANGGAM LRT STATION,Each A Cup,2.9,"254 Jln Kayu, Singapore",1.3980292,103.8732756
+KEAT HONG LRT STATION,U&Me Tea,3.3,"141 Teck Whye Ln, Block 141, Singapore",1.380326,103.7527519
+KEAT HONG LRT STATION,each a cup @ ITE College West,3.7,"1 Choa Chu Kang Grove, #05-01, Singapore",1.3758689,103.7520933
+KEAT HONG LRT STATION,Qiwano,3.2,"137 Teck Whye Ln, Block 137, Singapore",1.3799553,103.7523441
+DAMAI LRT STATION,Each a cup,1.8,612A Punggol Dr.,1.4048194,103.9086389
+DAMAI LRT STATION,Each a cup,1.7,"301 Punggol Central, #01-05, Singapore",1.4034516,103.9061232
+DAMAI LRT STATION,R&B Tea,3.5,"681 Punggol Dr., #B1-03, Singapore",1.4026186,103.9130397
+DAMAI LRT STATION,KOI Thé @ Oasis Terraces,4.0,"681 Punggol Dr., #01-30 Oasis Terraces, Singapore",1.4025479,103.9129575
+COVE LRT STATION,Each a cup,1.7,"301 Punggol Central, #01-05, Singapore",1.4034516,103.9061232
+RIVIERA LRT STATION,Hollin Singapore Punggol Plaza,4.0,"168, 01-09 Punggol Field, Punggol Plaza",1.3941746,103.9130396
+SENJA LRT STATION,LiHO TEA @ Junction 10,4.5,"1 Woodlands Rd, #01-26 Junction 10, Singapore",1.3804555,103.7600795
+SENJA LRT STATION,Koi Cafe,4.2,"17 Petir Rd, #B2-53, Singapore",1.3782836,103.7627251
+SENJA LRT STATION,CHICHA San Chen Hillion Mall,4.1,"17 Petir Rd, B2-17, Singapore",1.3784298,103.763132
+SENJA LRT STATION,each a cup @ Bukit Panjang Integrated Transport Hub,3.6,"15, #01-61 Petir Rd",1.3783857,103.7635192
+SENJA LRT STATION,Dew Station,4.0,"524A Jelapang Road, #02-03 Greenridge Shopping Centre",1.3852549,103.7663585
+SENJA LRT STATION,LiHO TEA @ Bukit Panjang Plaza,3.9,"1 Jelebu Road, Bukit Panjang Plaza #01-21",1.3801103,103.764306
+SENJA LRT STATION,each a cup @ Senja-Cashew CC,3.0,"101 Bukit Panjang Rd, #01-03 Senja-Cashew CC, Singapore",1.3815707,103.7647199
+SENJA LRT STATION,LiHO TEA @ Greenridge Shopping Centre,4.2,"524A, #02-10 Jelapang Rd, Greenridge Shopping Centre",1.3852478,103.7660555
+JELAPANG LRT STATION,LiHO TEA @ Greenridge Shopping Centre,4.2,"524A, #02-10 Jelapang Rd, Greenridge Shopping Centre",1.3852478,103.7660555
+JELAPANG LRT STATION,Dew Station,4.0,"524A Jelapang Road, #02-03 Greenridge Shopping Centre",1.3852549,103.7663585
+PETIR LRT STATION,LiHO TEA @ Bukit Panjang Plaza,3.9,"1 Jelebu Road, Bukit Panjang Plaza #01-21",1.3801103,103.764306
+PETIR LRT STATION,CHICHA San Chen Hillion Mall,4.1,"17 Petir Rd, B2-17, Singapore",1.3784298,103.763132
+PETIR LRT STATION,each a cup @ Bukit Panjang Integrated Transport Hub,3.6,"15, #01-61 Petir Rd",1.3783857,103.7635192
+PETIR LRT STATION,Koi Cafe,4.2,"17 Petir Rd, #B2-53, Singapore",1.3782836,103.7627251
+PETIR LRT STATION,each a cup @ Senja-Cashew CC,3.0,"101 Bukit Panjang Rd, #01-03 Senja-Cashew CC, Singapore",1.3815707,103.7647199
+TECK WHYE LRT STATION,each a cup @ ITE College West,3.7,"1 Choa Chu Kang Grove, #05-01, Singapore",1.3758689,103.7520933
+TECK WHYE LRT STATION,U&Me Tea,3.3,"141 Teck Whye Ln, Block 141, Singapore",1.380326,103.7527519
+TECK WHYE LRT STATION,Qiwano,3.2,"137 Teck Whye Ln, Block 137, Singapore",1.3799553,103.7523441
+CHOA CHU KANG LRT STATION,LiHO TEA,4.2,"21 Choa Chu Kang Ave 4, #B1 - K30, Singapore",1.3849075,103.7449784
+CHOA CHU KANG LRT STATION,KOI Thé Express Choa Chu Kang MRT,4.0,"50A Choa Chu Kang Loop, #01-15, Singapore",1.3860445,103.7442847
+CHOA CHU KANG LRT STATION,Sharetea - Choa Chu Kang MRT Station,4.8,"50A Choa Chu Kang Loop, #01-05 MRT Station, Singapore",1.3856762,103.7444333
+CHOA CHU KANG LRT STATION,Gong Cha,3.7,"21 Choa Chu Kang Avenue 4, #04-18A, Lot, one, Singapore",1.3852086,103.7449371
+CHOA CHU KANG LRT STATION,Fruit Boom,0.0,"21 Choa Chu Kang Ave 4, Singapore",1.3852086,103.7449371
+LAYAR LRT STATION,LiHO TEA @ Seletar Mall,4.3,"33 Sengkang West Ave, #B1-27/28, Singapore",1.3915397,103.8760564
+LAYAR LRT STATION,Bober Tea @ Esso Seng Kang,3.6,"Esso station @ 150, Sengkang W Way",1.3954333,103.8803127
+LAYAR LRT STATION,Signature KOI @ Fernvale CC,4.3,"21 Sengkang West Ave, #01-02, Singapore",1.3918491,103.8766199
+KANGKAR LRT STATION,LiHO TEA @ Rivervale Plaza,4.0,"118 Rivervale Dr, #01-04 Rivervale Plaza, Singapore",1.385387,103.9018653
+KANGKAR LRT STATION,R&B Tea,2.9,"118 Rivervale Dr, #01-K16 Rivervale Plaza, Singapore",1.3855939,103.9019834
+MERIDIAN LRT STATION,Hollin Singapore Punggol Plaza,4.0,"168, 01-09 Punggol Field, Punggol Plaza",1.3941746,103.9130396
+CHENG LIM LRT STATION,LiHO TEA - Compass One,4.1,"1 Sengkang Square, #B1-43, Singapore",1.3922234,103.8952888
+CHENG LIM LRT STATION,KOI Thé,4.2,"1 Sengkang Square, Unit #01 - 19, Singapore",1.3919859,103.8953193
+CHENG LIM LRT STATION,KOI @ SKH Campus,5.0,"1 Anchorvale St, #01-24, Singapore",1.3963094,103.8911356
+CHENG LIM LRT STATION,Gong Cha,3.8,"1 Sengkang Square, #02 - 40/41 Compass One, Singapore",1.3918017,103.8948132
+PUNGGOL POINT LRT STATION,KOI Thé @ Northshore Plaza,4.0,"408 Northshore Drive, #01-K3/K4/K5, Northshore Dr, I",1.4169062,103.9022242
+SUMANG LRT STATION,LiHO TEA @ Waterway Point,4.1,"#B2-K10, Waterway Point, 83 Punggol Central, Singapore",1.4066475,103.9022866
+SUMANG LRT STATION,KOI Thé Express,4.0,"83 Punggol Central, #B1-K2, Singapore",1.4065645,103.9020722
+SUMANG LRT STATION,CHICHA San Chen Waterway Point,4.5,"83 Punggol Central, #01-42 Waterway Point, Singapore",1.4067143,103.9027502
+FERNVALE LRT STATION,LiHO TEA @ Seletar Mall,4.3,"33 Sengkang West Ave, #B1-27/28, Singapore",1.3915397,103.8760564
+FERNVALE LRT STATION,Signature KOI @ Fernvale CC,4.3,"21 Sengkang West Ave, #01-02, Singapore",1.3918491,103.8766199
+FERNVALE LRT STATION,Bober Tea @ Esso Seng Kang,3.6,"Esso station @ 150, Sengkang W Way",1.3954333,103.8803127
+PENDING LRT STATION,Each A Cup - 257 Bangkit Road #01-57,0.0,"257 Bangkit Rd, #01-57, Singapore",1.3775022,103.7736701
+PENDING LRT STATION,Sweet Talk,2.3,"Bangkit Rd, #01-27 Block 260, Singapore",1.3779482,103.7733395
+PENDING LRT STATION,iTEA Bukit Panjang 258,3.8,"Blk 258 Bukit Panjang Ring Rd, #01-52, Singapore",1.378208,103.7731857
+TECK LEE LRT STATION,KOI Thé @ Northshore Plaza,4.0,"408 Northshore Drive, #01-K3/K4/K5, Northshore Dr, I",1.4169062,103.9022242
+BANGKIT LRT STATION,Each A Cup - 257 Bangkit Road #01-57,0.0,"257 Bangkit Rd, #01-57, Singapore",1.3775022,103.7736701
+BANGKIT LRT STATION,Sweet Talk,2.3,"Bangkit Rd, #01-27 Block 260, Singapore",1.3779482,103.7733395
+BANGKIT LRT STATION,iTEA Bukit Panjang 258,3.8,"Blk 258 Bukit Panjang Ring Rd, #01-52, Singapore",1.378208,103.7731857
+BAKAU LRT STATION,LiHO TEA @ Rivervale Plaza,4.0,"118 Rivervale Dr, #01-04 Rivervale Plaza, Singapore",1.385387,103.9018653
+BAKAU LRT STATION,R&B Tea,2.9,"118 Rivervale Dr, #01-K16 Rivervale Plaza, Singapore",1.3855939,103.9019834
+BAKAU LRT STATION,LiHO TEA @ Rivervale Mall,4.2,"11 Rivervale Crescent, #01-04A, Rivervale Mall, Singapore",1.3923205,103.9045208
+RUMBIA LRT STATION,LiHO TEA @ Rivervale Mall,4.2,"11 Rivervale Crescent, #01-04A, Rivervale Mall, Singapore",1.3923205,103.9045208
+COMPASSVALE LRT STATION,LiHO TEA @ Rivervale Mall,4.2,"11 Rivervale Crescent, #01-04A, Rivervale Mall, Singapore",1.3923205,103.9045208
+COMPASSVALE LRT STATION,The Whale Tea SG - Rivervale Mall,4.2,"11 Rivervale Cres, #01-14, Singapore",1.3921116,103.9047915
+RANGGUNG LRT STATION,LiHO TEA @ Rivervale Plaza,4.0,"118 Rivervale Dr, #01-04 Rivervale Plaza, Singapore",1.385387,103.9018653
+RANGGUNG LRT STATION,R&B Tea,2.9,"118 Rivervale Dr, #01-K16 Rivervale Plaza, Singapore",1.3855939,103.9019834
+RANGGUNG LRT STATION,TeaGIF Snack Bar,3.3,"275D Compassvale Link, #01-10, Singapore",1.3827716,103.8937965
+PHOENIX LRT STATION,LiHO TEA @ Junction 10,4.5,"1 Woodlands Rd, #01-26 Junction 10, Singapore",1.3804555,103.7600795
+SEGAR LRT STATION,LiHO TEA @ Greenridge Shopping Centre,4.2,"524A, #02-10 Jelapang Rd, Greenridge Shopping Centre",1.3852478,103.7660555
+SEGAR LRT STATION,Dew Station,4.0,"524A Jelapang Road, #02-03 Greenridge Shopping Centre",1.3852549,103.7663585
+SENGKANG LRT STATION,LiHO TEA - Compass One,4.1,"1 Sengkang Square, #B1-43, Singapore",1.3922234,103.8952888
+SENGKANG LRT STATION,KOI Thé,4.2,"1 Sengkang Square, Unit #01 - 19, Singapore",1.3919859,103.8953193
+SENGKANG LRT STATION,Gong Cha,3.8,"1 Sengkang Square, #02 - 40/41 Compass One, Singapore",1.3918017,103.8948132
+SENGKANG LRT STATION,Yi Fang Taiwan Fruit Tea,4.2,"61 Sengkang E Rd, Singapore",1.3915071,103.8927453
+BRAS BASAH MRT STATION,Gong Cha,4.3,"50 Stamford Rd, #01-01 Lee Kong Chian Of Business, Singapore",1.2950013,103.8505781
+BRAS BASAH MRT STATION,Wanpo Tea Shop @ Lazada One,4.4,"51 Bras Basah Rd, #01-10, Singapore",1.297821,103.8502159
+BRAS BASAH MRT STATION,LiHO TEA @ Bugis+,3.9,"201 Victoria St, #03-29 to 30 Bugis+, Singapore",1.2995955,103.8542191
+BRAS BASAH MRT STATION,KOI Thé @ Bugis+,4.3,"201 Victoria St, #01-01, Singapore",1.2991112,103.8541753
+BRAS BASAH MRT STATION,Bober tea @ SMU,4.5,"70 Stamford Road, #B1-45 SMU, Li Ka Shing Library Building",1.2962946,103.8499767
+BRAS BASAH MRT STATION,KOI Thé Express @ Raffles City,3.5,"Raffles City Shopping Centre, 252 North Bridge Rd, B1-71",1.2946694,103.8532685
+BRAS BASAH MRT STATION,LiHO TEA @ Bugis Street,4.0,"3 New Bugis Street, Singapore",1.3000208,103.854655
+BRAS BASAH MRT STATION,CHAGEE 霸王茶姬 @ Bugis Plus,4.0,"201 Victoria St, #05 - 09, Singapore",1.2993887,103.8541325
+BRAS BASAH MRT STATION,LiHO TEA @ The Cathay,3.0,"#01-10, The Cathay, 2 Handy Road",1.2993784,103.8478027
+BRAS BASAH MRT STATION,Blackdot Sweet Provision,0.0,"111 Middle Rd, National Design Centre, Singapore",1.298669,103.8533634
+BRAS BASAH MRT STATION,LiHO TEA @ Raffles City Shopping Centre,3.8,252 North Bridge Rd #B1-67 Raffles City Shopping Centre,1.2933541,103.8538616
+BRAS BASAH MRT STATION,Gong Ju Cha,4.6,"190 Middle Rd, Singapore",1.3005243,103.8521508
+BRAS BASAH MRT STATION,Chun Yang Tea - Capitol Piazza,4.0,"13 Stamford Rd, b2, Singapore",1.293546,103.8511091
+BRAS BASAH MRT STATION,CHA YU FAN HOU,4.8,"Selegie Rd, 1号#02-07",1.3003876,103.849198
+MACPHERSON MRT STATION,SUNDAY the Milkbar,4.3,"36 Circuit Rd, #01-410, Singapore",1.328874,103.8871531
+CITY HALL MRT STATION,Gong Cha,4.3,"50 Stamford Rd, #01-01 Lee Kong Chian Of Business, Singapore",1.2950013,103.8505781
+CITY HALL MRT STATION,LiHO TEA @ Funan Mall,3.6,"107 North Bridge Rd, B2-K04, Singapore",1.2911354,103.8501524
+CITY HALL MRT STATION,KOI Thé Express @ Raffles City,3.5,"Raffles City Shopping Centre, 252 North Bridge Rd, B1-71",1.2946694,103.8532685
+CITY HALL MRT STATION,Chun Yang Tea - Capitol Piazza,4.0,"13 Stamford Rd, b2, Singapore",1.293546,103.8511091
+CITY HALL MRT STATION,Chun Fun How Singapore 春芳號,4.7,"8 Raffles Ave., #02-13 The Esplanade Mall, Singapore",1.2896585,103.8557631
+CITY HALL MRT STATION,CHAGEE 霸王茶姬 @ Funan,3.6,"107 North Bridge Road, Mall, #02-K07 Funan",1.2911354,103.8501524
+CITY HALL MRT STATION,LiHO TEA @ Raffles City Shopping Centre,3.8,252 North Bridge Rd #B1-67 Raffles City Shopping Centre,1.2933541,103.8538616
+CITY HALL MRT STATION,Gong Cha,4.0,"109 North Bridge Road #02-01 Funan Mall, Singapore",1.2916384,103.8506776
+CITY HALL MRT STATION,The Alley Funan Mall,3.8,"107 North Bridge Rd, #02-36, Singapore",1.2911354,103.8501524
+CITY HALL MRT STATION,Milksha- Funan,4.4,"107 North Bridge Rd, #B1-25, Singapore",1.2911354,103.8501524
+CITY HALL MRT STATION,Bober tea @ SMU,4.5,"70 Stamford Road, #B1-45 SMU, Li Ka Shing Library Building",1.2962946,103.8499767
+TAMPINES EAST MRT STATION,SnowCup,4.7,"201D Tampines St. 21, #01-1131, Singapore",1.3525869,103.9537831
+TAMPINES EAST MRT STATION,iTEA Tampines East 201,4.1,"201B Tampines St. 21, #01-K1, Singapore",1.3534622,103.9529001
+TAMPINES EAST MRT STATION,World Tea House 世界茶饮,4.5,"Blk 201D Tampines St. 21, #01-1129, Singapore",1.3525848,103.9533338
+TAMPINES EAST MRT STATION,Each A Cup,2.6,"208A Tampines Ave 2, Singapore",1.3527101,103.9544953
+TAMPINES EAST MRT STATION,Good Taste Dessert,0.0,"201 Tampines St. 21, Singapore",1.352714,103.9535412
+TAMPINES WEST MRT STATION,Each-A-Cup,2.5,"802 Tampines Ave 4, Singapore",1.3460914,103.93801
+TAMPINES WEST MRT STATION,A1 bubble tea,3.7,"822 Tampines Street 81, Block 822, Singapore",1.3483166,103.9343055
+TAMPINES WEST MRT STATION,iTEA,4.2,"828A Tampines Street 81, #01-156, Shop T West, Singapore",1.3490987,103.9342797
+GEYLANG BAHRU MRT STATION,Amazing Hoki,4.5,"Geylang Bahru MRT Station, 541 Kallang Bahru, #B1-01 DT24",1.3214377,103.8715259
+GEYLANG BAHRU MRT STATION,Tea Code,4.8,"71 Kallang Bahru, Singapore",1.3208193,103.8703509
+GEYLANG BAHRU MRT STATION,延禧堂 Yan Xi Tang @ Geylang Bahru,5.0,"68 Geylang Bahru, #01-3225, Singapore",1.322093,103.8699396
+GEYLANG BAHRU MRT STATION,Sweet Memory Snacks,3.0,"68 Geylang Bahru, Singapore",1.3223259,103.870032
+BENDEMEER MRT STATION,LiHO TEA @ Aperia Mall,4.1,"12, #01-22 Kallang Ave",1.309734,103.8641698
+BENDEMEER MRT STATION,The Alley Aperia Mall,3.3,"12 Kallang Ave, #01-27, Singapore",1.3103444,103.8641272
+BENCOOLEN MRT STATION,Wanpo Tea Shop @ Lazada One,4.4,"51 Bras Basah Rd, #01-10, Singapore",1.297821,103.8502159
+BENCOOLEN MRT STATION,LiHO TEA @ Burlington Square,3.4,"#01-53, Burlington Square, 175 Bencoolen Street",1.3027564,103.8523178
+BENCOOLEN MRT STATION,Feng Cha Singapore 奉茶新加坡,3.4,175B Bencoolen Street Burlington Square #01-56,1.3026578,103.8522349
+BENCOOLEN MRT STATION,Gong Ju Cha,4.6,"190 Middle Rd, Singapore",1.3005243,103.8521508
+BENCOOLEN MRT STATION,KOI Thé @ Bugis+,4.3,"201 Victoria St, #01-01, Singapore",1.2991112,103.8541753
+BENCOOLEN MRT STATION,CHA YU FAN HOU,4.8,"Selegie Rd, 1号#02-07",1.3003876,103.849198
+BENCOOLEN MRT STATION,Gong Cha,4.3,"50 Stamford Rd, #01-01 Lee Kong Chian Of Business, Singapore",1.2950013,103.8505781
+BENCOOLEN MRT STATION,LiHO TEA @ Bugis+,3.9,"201 Victoria St, #03-29 to 30 Bugis+, Singapore",1.2995955,103.8542191
+BENCOOLEN MRT STATION,LiHO TEA @ The Cathay,3.0,"#01-10, The Cathay, 2 Handy Road",1.2993784,103.8478027
+BENCOOLEN MRT STATION,Bober tea @ SMU,4.5,"70 Stamford Road, #B1-45 SMU, Li Ka Shing Library Building",1.2962946,103.8499767
+BENCOOLEN MRT STATION,LiHO TEA @ Bugis Street,4.0,"3 New Bugis Street, Singapore",1.3000208,103.854655
+BENCOOLEN MRT STATION,Feng Shui Tang 豐水堂,5.0,"190 Middle Rd, #01-37, Singapore",1.3002759,103.8525166
+BENCOOLEN MRT STATION,CHAGEE 霸王茶姬 @ Bugis Plus,4.0,"201 Victoria St, #05 - 09, Singapore",1.2993887,103.8541325
+BENCOOLEN MRT STATION,KOI Thé Express @ Raffles City,3.5,"Raffles City Shopping Centre, 252 North Bridge Rd, B1-71",1.2946694,103.8532685
+BENCOOLEN MRT STATION,Blackdot Sweet Provision,0.0,"111 Middle Rd, National Design Centre, Singapore",1.298669,103.8533634
+HARBOURFRONT MRT STATION,LiHO TEA,4.2,"1 HarbourFront Walk, #02-95 VivoCity, Singapore",1.2636032,103.8224829
+HARBOURFRONT MRT STATION,KOI Cafe,4.0,"1 HarbourFront Walk, B2-06B VivoCity, Singapore",1.2647139,103.8231658
+HARBOURFRONT MRT STATION,HEYTEA @ VivoCity,2.9,"1 HarbourFront Walk, #01-111 VIvoCity, Singapore",1.2635065,103.822435
+HARBOURFRONT MRT STATION,PlayMade by 丸作 @ VivoCity,2.5,"Vivo City, #02-118, 1 HarbourFront Walk",1.2635871,103.8229077
+HARBOURFRONT MRT STATION,Koi Thé @ Harbourfront,5.0,"1 Maritime Square, #01-67A Harbourfront Centre, Singapore",1.2648572,103.8202368
+HARBOURFRONT MRT STATION,Chinese Tofu Magician VivoCity,3.4,"02-135, VivoCity, 1 HarbourFront Walk, Singapore",1.2640606,103.8223506
+HARBOURFRONT MRT STATION,LiHO TEA @ Harbourfront Centre,4.9,"1 Maritime Square, #01-K9 Harbourfront Centre, Singapore",1.2642175,103.8203582
+HARBOURFRONT MRT STATION,Tuk Tuk Cha,3.4,"1 Maritime Square, #02-01/02 HarbourFront Centre, Singapore",1.2642101,103.8202355
+KENT RIDGE MRT STATION,Mi CHA - NUH (Inside QQ Rice),0.0,"1 Lower Kent Ridge Rd, #01-02, Singapore",1.2934297,103.784535
+KENT RIDGE MRT STATION,each a cup @ Timbre+,3.8,"73A Ayer Rajah Crescent, Timbre+ #01-24, Singapore",1.297437,103.7875057
+KENT RIDGE MRT STATION,KOI Thé Express @ National University Hospital,5.0,"1 Lower Kent Ridge Rd, #1-14, Singapore",1.293802,103.7848187
+PUNGGOL MRT STATION,LiHO TEA @ Waterway Point,4.1,"#B2-K10, Waterway Point, 83 Punggol Central, Singapore",1.4066475,103.9022866
+PUNGGOL MRT STATION,KOI Thé Express,4.0,"83 Punggol Central, #B1-K2, Singapore",1.4065645,103.9020722
+PUNGGOL MRT STATION,CHICHA San Chen Waterway Point,4.5,"83 Punggol Central, #01-42 Waterway Point, Singapore",1.4067143,103.9027502
+PUNGGOL MRT STATION,Each a cup,1.7,"301 Punggol Central, #01-05, Singapore",1.4034516,103.9061232
+PUNGGOL MRT STATION,Tea Tree Cafe,2.7,"70 Punggol Central, #01-04, Singapore",1.404611,103.902153
+TANJONG PAGAR MRT STATION,LiHO TEA @ Guoco Tower,3.8,"7 Wallich St, B2-20 S Guoco Tower, Singapore",1.2769449,103.8453569
+TANJONG PAGAR MRT STATION,Happy Cup,3.9,"100 Tras St, #02-27B, Singapore",1.2746365,103.8434795
+TANJONG PAGAR MRT STATION,Miss Tea,4.8,"10 Anson Rd, #01-27 International Plaza, Singapore",1.2756998,103.8458098
+TANJONG PAGAR MRT STATION,Cing Tea by 甲文青台湾,4.4,"12 Gopeng St, #01-89/90, Singapore",1.2752925,103.8440609
+TANJONG PAGAR MRT STATION,KOI Thé,4.3,"100 Tras St, Singapore",1.2747112,103.8435137
+TANJONG PAGAR MRT STATION,Woobbee,4.5,"1 Tanjong Pagar Plz, #01-18, Singapore",1.2755197,103.8423711
+TANJONG PAGAR MRT STATION,iTEA,3.9,"1 Tanjong Pagar Plz, #01-52 Tanjong Pagar Plaza, Singapore",1.2748632,103.8426344
+TANJONG PAGAR MRT STATION,Dessert Bay,4.2,"7 Tanjong Pagar Plz, #01-102, Singapore",1.2770138,103.8431901
+ONE-NORTH MRT STATION,Woobbee @ Innovis,4.5,"2 Fusionopolis Way Innovis, #01-06",1.2986661,103.7887641
+ONE-NORTH MRT STATION,KOI Thé Express @ One North MRT,5.0,"9 Ayer Rajah Avenue, #B2-01, one-north, MRT Station",1.2990241,103.7871033
+ONE-NORTH MRT STATION,each a cup @ Timbre+,3.8,"73A Ayer Rajah Crescent, Timbre+ #01-24, Singapore",1.297437,103.7875057
+STADIUM MRT STATION,CHICHA San Chen Kallang Wave Mall,4.4,"1 Stadium Pl, #01-52 Sports Hub Retail Mall, Singapore",1.302695,103.873355
+BUGIS MRT STATION,LiHO TEA @ Bugis+,3.9,"201 Victoria St, #03-29 to 30 Bugis+, Singapore",1.2995955,103.8542191
+BUGIS MRT STATION,KOI Thé @ Bugis+,4.3,"201 Victoria St, #01-01, Singapore",1.2991112,103.8541753
+BUGIS MRT STATION,Sharetea,3.9,"200 Victoria St, #01-14A, Singapore",1.2995405,103.8555711
+BUGIS MRT STATION,Wanpo Tea Shop (Tan Quee Lan Outlet),4.6,"2 Tan Quee Lan St, #01-03, Singapore",1.298139,103.8569294
+BUGIS MRT STATION,MIXUE Bugis,4.2,"241 Victoria St, Singapore",1.3004058,103.8553245
+BUGIS MRT STATION,CHAGEE 霸王茶姬 @ Bugis Plus,4.0,"201 Victoria St, #05 - 09, Singapore",1.2993887,103.8541325
+BUGIS MRT STATION,Feng Cha Singapore 奉茶新加坡,3.4,175B Bencoolen Street Burlington Square #01-56,1.3026578,103.8522349
+BUGIS MRT STATION,Gong Cha Classic,4.2,"200 Victoria St, #03-08 Bugis Junction, Singapore",1.2993777,103.8554375
+BUGIS MRT STATION,LiHO TEA @ Burlington Square,3.4,"#01-53, Burlington Square, 175 Bencoolen Street",1.3027564,103.8523178
+BUGIS MRT STATION,LiHO TEA @ Bugis Street,4.0,"3 New Bugis Street, Singapore",1.3000208,103.854655
+BUGIS MRT STATION,Blackdot Sweet Provision,0.0,"111 Middle Rd, National Design Centre, Singapore",1.298669,103.8533634
+BUGIS MRT STATION,Super Dream,3.9,"3 New Bugis Street, #01-MSV1 New Bugis Street, Singapore",1.3006613,103.8549626
+BUGIS MRT STATION,LiHO TEA @ Suntec City B1 (w/ seating),3.5,"3 Temasek Boulevard, #B1, #175",1.2960707,103.8589791
+BUGIS MRT STATION,Gong Ju Cha,4.6,"190 Middle Rd, Singapore",1.3005243,103.8521508
+BUGIS MRT STATION,麥吉 machi machi @ Arab St,4.1,"25 Arab St, Singapore",1.3003643,103.8597276
+SOMERSET MRT STATION,LiHO TEA @ Orchard Gateway,3.7,"277 Orchard Rd, #B2-13, Singapore",1.300769,103.8390821
+SOMERSET MRT STATION,KOI Thé @ 313@somerset,4.3,"313 Orchard Rd, #B3 - 51, Singapore",1.3009837,103.838432
+SOMERSET MRT STATION,HEARTY 想巷,4.8,"111 Somerset Rd, #01-35 111 somerset, Singapore",1.3001685,103.8372952
+SOMERSET MRT STATION,HEYTEA @ Orchard Central,3.7,"181 Orchard Rd, #01-26 Orchard Central Singapore",1.3006295,103.8398742
+SOMERSET MRT STATION,CHICHA San Chen 313@Somerset,4.3,"Orchard Rd, #03-41 313@Somerset 313, Singapore",1.3009665,103.8384727
+SOMERSET MRT STATION,Hot & Cold,0.0,"313 Orchard Rd, Orchard, Singapore",1.3009665,103.8384727
+SOMERSET MRT STATION,Gong Cha,3.7,"313 Orchard Rd, #02 - 50 313@Somerset, Singapore",1.3010306,103.8384614
+SOMERSET MRT STATION,Milksha - 313 Somerset,3.7,"313 Orchard Rd, #B3-50/53, Singapore",1.3009665,103.8384727
+SOMERSET MRT STATION,machi machi @313,3.9,"313 Somerset Rd, #01-37, Singapore",1.3012522,103.8385517
+SOMERSET MRT STATION,Bober Tea @ 313 Somerset,4.2,"313 Orchard Road, #B3-55, 313 @ Somerset",1.3010846,103.8385973
+SOMERSET MRT STATION,Playmade by 丸作,4.0,"313 Orchard Rd, #B3-08, Singapore",1.3012688,103.8383708
+SOMERSET MRT STATION,Tiger Sugar @ Paragon Shopping Centre,4.1,"290 Orchard Rd, #B1-39/40, Singapore",1.3033986,103.8354034
+SOMERSET MRT STATION,iceTalk Signature Tea,4.1,"277 Orchard Rd, #01-15, Singapore",1.300459,103.8393516
+SOMERSET MRT STATION,CHICHA San Chen Ngee Ann City,4.0,"391 Orchard Rd, B2-03 Ngee Ann City, Singapore",1.3025492,103.8347392
+ORCHARD MRT STATION,HEYTEA @ ION,4.1,2 Orchard Turn #B4-29 ION Orchard,1.3039288,103.8319512
+ORCHARD MRT STATION,Cha Men Orchard Exchange,0.0,"437 Orchard Rd, #B1-28 Orchard Exchange, Singapore",1.3033135,103.8323012
+ORCHARD MRT STATION,LiHO TEA @ Wisma Atria,3.8,"#B1-03, Wisma Atria, 435 Orchard Road",1.3036275,103.8331684
+ORCHARD MRT STATION,CHICHA San Chen Ngee Ann City,4.0,"391 Orchard Rd, B2-03 Ngee Ann City, Singapore",1.3025492,103.8347392
+ORCHARD MRT STATION,Signature KOI @ ION Orchard,4.2,2 Orchard Turn #B3-15/16 ION Orchard,1.3039288,103.8319512
+ORCHARD MRT STATION,Tiger Sugar @ Paragon Shopping Centre,4.1,"290 Orchard Rd, #B1-39/40, Singapore",1.3033986,103.8354034
+ORCHARD MRT STATION,Yuan Cha 源茶,4.3,"14 Scotts Rd, #01-39, Singapore",1.3071502,103.8337132
+ORCHARD MRT STATION,LiHO TEA @ Far East Plaza,3.1,"#01-16F, 14 Scotts Rd Far East Plaza",1.3075337,103.8334022
+ORCHARD MRT STATION,Singapore Tea Festival,0.0,"2 Orchard Turn, Orchard, Singapore",1.3039288,103.8319512
+ORCHARD MRT STATION,CHAGEE 霸王茶姬 @ Wisma Atria,4.2,"435 Orchard Rd, #B1-02 Wisma Atria, Singapore",1.3036077,103.8332201
+ORCHARD MRT STATION,KOI Thé @ Tang Plaza,4.5,"310 Orchard Rd, #B1-02A, Singapore",1.3050215,103.8327664
+JALAN BESAR MRT STATION,LiHO TEA @ Burlington Square,3.4,"#01-53, Burlington Square, 175 Bencoolen Street",1.3027564,103.8523178
+JALAN BESAR MRT STATION,Feng Cha Singapore 奉茶新加坡,3.4,175B Bencoolen Street Burlington Square #01-56,1.3026578,103.8522349
+BAYFRONT MRT STATION,HEYTEA @ Marina Bay Sands,3.4,"2 Bayfront Ave, #01-73/74, Singapore",1.2825205,103.8583866
+BAYFRONT MRT STATION,R&B Tea,3.6,"2 Bayfront Ave, #B2-50, Singapore",1.2856982,103.8594564
+BAYFRONT MRT STATION,PlayMade by 丸作 @ Marina Bay Link Mall,3.2,"8A Marina Blvd, #B2-43 Marina Bay Link Mall",1.2798897,103.8548685
+SENGKANG MRT STATION,LiHO TEA - Compass One,4.1,"1 Sengkang Square, #B1-43, Singapore",1.3922234,103.8952888
+SENGKANG MRT STATION,KOI Thé,4.2,"1 Sengkang Square, Unit #01 - 19, Singapore",1.3919859,103.8953193
+SENGKANG MRT STATION,Gong Cha,3.8,"1 Sengkang Square, #02 - 40/41 Compass One, Singapore",1.3918017,103.8948132
+SENGKANG MRT STATION,Yi Fang Taiwan Fruit Tea,4.2,"61 Sengkang E Rd, Singapore",1.3915071,103.8927453
+KOVAN MRT STATION,LiHO TEA,4.6,"Hougang St 21, #02-49 Heartland Mall, Blk 205, Singapore",1.3596909,103.8851764
+KOVAN MRT STATION,Tea Tree Cafe,3.6,"205 Hougang St 21, #01-16, Singapore",1.359469,103.8851289
+KOVAN MRT STATION,KOI Thé,4.1,"988 Upper Serangoon Rd, #01-05 Stars of Kovan, Singapore",1.3611993,103.886814
+KOVAN MRT STATION,Sea Tea,5.0,"988 Upper Serangoon Rd, Singapore",1.3617063,103.8873118
+FORT CANNING MRT STATION,CHICHA San Chen Clarke Quay Central,3.3,"Clarke Quay, Eu Tong Sen St, B1-K9 Central 6",1.2891465,103.8467157
+DOWNTOWN MRT STATION,LiHO TEA @ Asia Square Tower 2,3.5,"12 Marina View, #02-08, Singapore",1.2788226,103.850949
+DOWNTOWN MRT STATION,PlayMade by 丸作 @ Marina Bay Link Mall,3.2,"8A Marina Blvd, #B2-43 Marina Bay Link Mall",1.2798897,103.8548685
+DOWNTOWN MRT STATION,Koi Thé - The Arcade,4.3,"11 Collyer Quay, #01-12, Singapore",1.2835725,103.8520216
+DOWNTOWN MRT STATION,Ke Cha,0.0,"18 Raffles Quay Lau Pa Sat Market, Singapore",1.280805,103.850155
+ESPLANADE MRT STATION,TP Tea Suntec City,3.3,"3 Temasek Blvd, #B1-11 West Wing, Singapore",1.2941774,103.8572201
+ESPLANADE MRT STATION,CHAGEE 霸王茶姬 @ Suntec City,4.0,"3 Temasek Blvd, #02-312 West Wing Retail Mall, Singapore",1.2938436,103.8571497
+ESPLANADE MRT STATION,Milksha - Suntec City,3.9,"3 Temasek Blvd, #02-375/376 Suntec City, Singapore",1.2932899,103.857305
+ESPLANADE MRT STATION,KOI Thé Express @ Raffles City,3.5,"Raffles City Shopping Centre, 252 North Bridge Rd, B1-71",1.2946694,103.8532685
+ESPLANADE MRT STATION,LiHO TEA @ Raffles City Shopping Centre,3.8,252 North Bridge Rd #B1-67 Raffles City Shopping Centre,1.2933541,103.8538616
+ESPLANADE MRT STATION,Signature KOI (Suntec City),4.1,"3 Temasek Boulevard #01-429/430/432, Mall, Tower 5 Suntec City North Wing",1.2949616,103.8578483
+ESPLANADE MRT STATION,PARTEA 茶派 @ Suntec City,3.9,"3 Temasek Boulevard Suntec City Mall, North Wing, #02-470",1.2957108,103.8586488
+ESPLANADE MRT STATION,CHICHA San Chen Marina Square,4.2,"6 Raffles Blvd, #02-208 Marina Square, Singapore",1.2911534,103.8576778
+ESPLANADE MRT STATION,LiHO TEA @ Suntec City B1 (w/ seating),3.5,"3 Temasek Boulevard, #B1, #175",1.2960707,103.8589791
+ESPLANADE MRT STATION,Chun Fun How Singapore 春芳號,4.7,"8 Raffles Ave., #02-13 The Esplanade Mall, Singapore",1.2896585,103.8557631
+ESPLANADE MRT STATION,KOI Thé,4.3,"9 Raffles Boulevard, #01-85, Millenia Walk, Singapore",1.2933559,103.8597693
+ESPLANADE MRT STATION,Hollin Singapore Suntec City,4.5,"Suntec City East Wing, 3 Temasek Blvd, #02-616 near DBS",1.2956198,103.8597096
+ESPLANADE MRT STATION,U-CHA 优茶,0.0,"9 Temasek Blvd, Singapore",1.2957859,103.858984
+ESPLANADE MRT STATION,Chun Yang Tea - Capitol Piazza,4.0,"13 Stamford Rd, b2, Singapore",1.293546,103.8511091
+NICOLL HIGHWAY MRT STATION,Hollin Singapore Suntec City,4.5,"Suntec City East Wing, 3 Temasek Blvd, #02-616 near DBS",1.2956198,103.8597096
+NICOLL HIGHWAY MRT STATION,麥吉 machi machi @ Arab St,4.1,"25 Arab St, Singapore",1.3003643,103.8597276
+MARINA BAY MRT STATION,LiHO TEA @ Asia Square Tower 2,3.5,"12 Marina View, #02-08, Singapore",1.2788226,103.850949
+MARINA BAY MRT STATION,PlayMade by 丸作 @ Marina Bay Link Mall,3.2,"8A Marina Blvd, #B2-43 Marina Bay Link Mall",1.2798897,103.8548685
+LABRADOR PARK MRT STATION,LiHO TEA,4.1,"460 Alexandra Rd, #01-10 Alexandra Retail Centre, Singapore",1.2737727,103.8014648
+CHINATOWN MRT STATION,Hey Long Cha @ Chinatown Point,4.7,"133 New Bridge Rd, #B1-46 Chinatown Point, Singapore",1.2851587,103.8447978
+CHINATOWN MRT STATION,LiHO TEA @ Lucky Chinatown,4.0,"211 New Bridge Rd, #01-09 Lucky Chinatown, Singapore",1.2838269,103.8435089
+CHINATOWN MRT STATION,Woobbee,4.3,"133 New Bridge Rd, #02 - 26, Singapore",1.2853022,103.8451113
+CHINATOWN MRT STATION,KOI Thé @ Chinatown Point,4.3,"133 New Bridge Rd, #01-39 Chinatown Point, Singapore",1.2855263,103.845189
+CHINATOWN MRT STATION,Tastea 真好喝,4.7,"Park Rd, People's Park Complex, #01-K99F, Singapore",1.2846842,103.8426295
+CHINATOWN MRT STATION,CHAGEE 霸王茶姬 @ Chinatown Point,4.2,"133 New Bridge Rd, #02-51 Chinatown Point, Singapore",1.2852093,103.8447228
+CHINATOWN MRT STATION,LIHO TEA 里喝,5.0,"83 Pagoda St, Singapore",1.2838338,103.8434916
+TAN KAH KEE MRT STATION,Niu Moo Moo,0.0,"587 Bukit Timah Rd, #02 38, Singapore",1.3238156,103.8099971
+TAN KAH KEE MRT STATION,iTEA - Coronation Plaza,5.0,"587 Bukit Timah Rd, #01-01 Inside NTUC Finest, Singapore",1.3239038,103.8099943
+TIONG BAHRU MRT STATION,LiHO TEA @ Tiong Bahru Plaza,3.8,"302 Tiong Bahru Rd, #B1 - k9, Siewiersk",1.2866719,103.8269424
+TIONG BAHRU MRT STATION,KOI Thé,4.4,"302 Tiong Bahru Rd, #01-155 Tiong Bahru Plaza, Singapore",1.2864839,103.8277926
+TIONG BAHRU MRT STATION,PlayMade by 丸作 @ Tiong Bahru Plaza,3.9,"302 Tiong Bahru Rd, #01-154, Plaza",1.2865009,103.8277531
+HILLVIEW MRT STATION,KOI Thé @ Hillview CC,4.9,"1 Hillview Rise, Singapore",1.3618695,103.7643649
+KING ALBERT PARK MRT STATION,Truly T-Link@896,4.9,"896 Dunearn Rd, #01-K1, Singapore",1.336791,103.7836817
+MATTAR MRT STATION,SUNDAY the Milkbar,4.3,"36 Circuit Rd, #01-410, Singapore",1.328874,103.8871531
+UBI MRT STATION,each a cup @ Ubi Ave 1,2.9,"306 Ubi Ave 1, #01-195, Singapore",1.3298269,103.9017543
+UBI MRT STATION,Nine Tales Tea (久违的茶),4.2,"342 Ubi Ave 1, #01-925, Singapore",1.3267156,103.9011339
+UBI MRT STATION,TEA TALK,3.7,"305 Ubi Ave 1, #01-168, Singapore",1.3293009,103.902072
+BEAUTY WORLD MRT STATION,No.17 Tea,4.5,"35 Upper Bukit Timah Rd, Singapore",1.3385659,103.7769836
+BEAUTY WORLD MRT STATION,iTEA,3.0,"144 Upper Bukit Timah Rd, #01-02 Beauty World Centre, Singapore",1.3423741,103.7762593
+BEAUTY WORLD MRT STATION,LiHO TEA @ Bukit Timah Plaza (w/ seating),4.1,"1 Jalan Anak Bukit, #B2-07A, Bukit Timah Plaza",1.3385771,103.7786733
+BEDOK NORTH MRT STATION,632 Bedok Reservoir Each a Cup,2.3,"632 Bedok Reservoir Rd, #01-874, Singapore",1.3329024,103.9138261
+DHOBY GHAUT MRT STATION,KOI Express,4.2,"68 Orchard Rd, B2-11, Singapore",1.2993443,103.8458016
+DHOBY GHAUT MRT STATION,LiHO TEA @ Dhoby Ghaut MRT Station,3.9,"60A Orchard Rd, #B2-06 Dhoby Gaut MRT Station, Singapore",1.2999743,103.845354
+DHOBY GHAUT MRT STATION,Hollin Singapore Plaza Singapura,4.0,"68 Orchard Road #01-68, Plaza Singapura, Atrium@Orchard",1.2993133,103.8455639
+DHOBY GHAUT MRT STATION,CHICHA San Chen Plaza Singapura,4.4,"68 Orchard Rd, B1-K7 Plaza Singapura, Singapore",1.3007111,103.844904
+DHOBY GHAUT MRT STATION,Gong Cha,4.3,"50 Stamford Rd, #01-01 Lee Kong Chian Of Business, Singapore",1.2950013,103.8505781
+DHOBY GHAUT MRT STATION,LiHO TEA @ The Cathay,3.0,"#01-10, The Cathay, 2 Handy Road",1.2993784,103.8478027
+DHOBY GHAUT MRT STATION,Wanpo Tea Shop @ Lazada One,4.4,"51 Bras Basah Rd, #01-10, Singapore",1.297821,103.8502159
+DHOBY GHAUT MRT STATION,CHA YU FAN HOU,4.8,"Selegie Rd, 1号#02-07",1.3003876,103.849198
+DHOBY GHAUT MRT STATION,Bober tea @ SMU,4.5,"70 Stamford Road, #B1-45 SMU, Li Ka Shing Library Building",1.2962946,103.8499767
+NOVENA MRT STATION,LiHO TEA @ Square 2,3.6,"10 Sinaran Dr, #01-172 Square 2, Singapore",1.3210661,103.844055
+NOVENA MRT STATION,Koi Cafe (Velocity),4.1,"238B Thomson Rd, #01-61, Velocity 307685, Novena Terrace, Singapore",1.3193314,103.8440411
+NOVENA MRT STATION,Gotcha Fresh Tea @ Novena,4.4,"238 Thomson Rd, #02 - 51 / 52, Singapore",1.3197468,103.8438963
+NOVENA MRT STATION,Koi Express,3.8,"10 Sinaran Dr, #B1, #115, Singapore",1.3204969,103.8441249
+NOVENA MRT STATION,Mi CHA Square 2 (Inside QQ Rice),5.0,"10 Sinaran Drive, Square 2, #01, 06|19",1.3209857,103.8442212
+NOVENA MRT STATION,CHICHA San Chen Novena Square,4.0,"238 Thomson Rd, #01-07 Velocity @ Novena Square, Singapore",1.3199572,103.8439076
+NOVENA MRT STATION,KOI Thé @ United Square,4.3,"101 Thomson Rd, #B1-60, Singapore",1.3171455,103.8435789
+NOVENA MRT STATION,Gong Cha,4.5,"16 Jln Tan Tock Seng, #B1-03 Tan Tock Seng Hospital, Singapore",1.3221536,103.847269
+NOVENA MRT STATION,R&B Tea,3.5,"101 Thomson Rd, #02 - K1 United Square, Singapore",1.3174253,103.8436019
+SERANGOON MRT STATION,KOI - NEX,4.3,"23 Serangoon Central, B1-07, Singapore",1.3509872,103.872025
+SERANGOON MRT STATION,PlayMade by 丸作 @ NEX,4.2,"23 Serangoon Central, #04-17 NEX, Singapore",1.3508388,103.8721044
+SERANGOON MRT STATION,Gong Cha,3.1,"23 Serangoon Central, B1-44 NEX, Singapore",1.3498689,103.8731419
+SERANGOON MRT STATION,Tiger Sugar,3.2,"23 Serangoon Central, B1-16, Singapore",1.3508884,103.8724816
+SERANGOON MRT STATION,CHICHA San Chen NEX,4.3,"23 Serangoon Central, #02-13A NEX, Singapore",1.3508288,103.8723559
+SERANGOON MRT STATION,Fruce - NEX,4.6,"23 Serangoon Central, #B2-34, Singapore",1.3504342,103.8727116
+SERANGOON MRT STATION,iTEA - Serangoon Bus Interchange,3.6,"20 Serangoon Ave 2, #B2-103 Serangoon Bus Interchange, Singapore",1.3508043,103.8715881
+SERANGOON MRT STATION,Tea Master 茶师傅,3.3,"266 Serangoon Central Dr, #266, Singapore",1.3533294,103.8714238
+SERANGOON MRT STATION,I Love Taimei,4.0,"23 Serangoon Central, #B2-48A NEX, Singapore",1.3501812,103.873236
+FARRER PARK MRT STATION,LiHO TEA @ City Square Mall,4.0,"180 Kitchener Rd, #02-K11, K13",1.3113982,103.8565897
+FARRER PARK MRT STATION,KOI Express Cafe,3.9,"180 Kitchener Rd, #B1-K6, Singapore",1.3116152,103.8562104
+FARRER PARK MRT STATION,Each A Cup - Owen Road,5.0,"44 Owen Rd, #01-315 Block 44, Singapore",1.3155668,103.8503845
+CLARKE QUAY MRT STATION,CHICHA San Chen Clarke Quay Central,3.3,"Clarke Quay, Eu Tong Sen St, B1-K9 Central 6",1.2891465,103.8467157
+CLARKE QUAY MRT STATION,LiHO TEA @ Funan Mall,3.6,"107 North Bridge Rd, B2-K04, Singapore",1.2911354,103.8501524
+CLARKE QUAY MRT STATION,Hey Long Cha @ Chinatown Point,4.7,"133 New Bridge Rd, #B1-46 Chinatown Point, Singapore",1.2851587,103.8447978
+CLARKE QUAY MRT STATION,KOI Thé @ Chinatown Point,4.3,"133 New Bridge Rd, #01-39 Chinatown Point, Singapore",1.2855263,103.845189
+CLARKE QUAY MRT STATION,Woobbee,4.3,"133 New Bridge Rd, #02 - 26, Singapore",1.2853022,103.8451113
+CLARKE QUAY MRT STATION,PlayMade by 丸作 @ Chinatown Point,3.3,"133 New Bridge Rd, #B1-42 Chinatown Point, Singapore",1.2853664,103.8451636
+CLARKE QUAY MRT STATION,NestCha,4.2,"133 New Bridge Rd, B1-50, Singapore",1.2852093,103.8447228
+CLARKE QUAY MRT STATION,Tastea 真好喝,4.7,"Park Rd, People's Park Complex, #01-K99F, Singapore",1.2846842,103.8426295
+CLARKE QUAY MRT STATION,Tea Pulse Raffles Place,4.7,"3 Phillip St, #01-04 ROYAL GROUP BUILDING, Singapore",1.2847462,103.8499043
+CLARKE QUAY MRT STATION,CHAGEE 霸王茶姬 @ Chinatown Point,4.2,"133 New Bridge Rd, #02-51 Chinatown Point, Singapore",1.2852093,103.8447228
+CLARKE QUAY MRT STATION,Gong Cha,3.8,"1 Raffles Pl, #B1-39, Singapore",1.2844024,103.8509818
+CLARKE QUAY MRT STATION,CHAGEE 霸王茶姬 @ Funan,3.6,"107 North Bridge Road, Mall, #02-K07 Funan",1.2911354,103.8501524
+CLARKE QUAY MRT STATION,The Alley One Raffles Place,3.0,"1 Raffles Pl, #B1-38, Singapore",1.2844024,103.8509818
+CLARKE QUAY MRT STATION,The Alley Funan Mall,3.8,"107 North Bridge Rd, #02-36, Singapore",1.2911354,103.8501524
+CLARKE QUAY MRT STATION,Milksha- Funan,4.4,"107 North Bridge Rd, #B1-25, Singapore",1.2911354,103.8501524
+BISHAN MRT STATION,LiHO TEA @ Junction 8,3.9,"9 Bishan Pl, #02-18A, Singapore",1.3501157,103.8483415
+BISHAN MRT STATION,KOI Café Express,4.0,"9 Bishan Pl, Singapore",1.3509515,103.8482293
+BISHAN MRT STATION,Tiger Sugar,3.3,"510 Bishan Street 13, Singapore",1.3487975,103.8499009
+BISHAN MRT STATION,Yungyung,4.7,"Blk 509 Bishan Street 11, #01-380, Singapore",1.348569,103.8495696
+BISHAN MRT STATION,The Alley,2.8,"9 Bishan Pl, #01-44, Singapore",1.3507572,103.8486253
+BISHAN MRT STATION,KOI Thé @ Junction 8,3.0,"9 Bishan Pl, #02-26, Singapore",1.3503946,103.8484974
+BISHAN MRT STATION,iTEA,0.0,"513 Bishan Street 13, #01-504 Bishan Mall, Singapore",1.349433,103.8494794
+MARYMOUNT MRT STATION,Teahee SG,4.5,"45 Jln Pemimpin, #08-03, Singapore",1.3504959,103.8425523
+LAVENDER MRT STATION,LiHO TEA @ Aperia Mall,4.1,"12, #01-22 Kallang Ave",1.309734,103.8641698
+LAVENDER MRT STATION,LiHO TEA @ V Hotel Lavender,4.0,"70 Jellicoe Rd, #01-21, V Hotel Lavender, Singapore",1.3079973,103.8627806
+LAVENDER MRT STATION,U-Cha,2.0,"70 Jellicoe Rd, Singapore",1.3080123,103.862551
+LAVENDER MRT STATION,Best Bubble Tea (closed),5.0,"463 Crawford Ln, #02-07, Singapore",1.3051502,103.8622436
+LAVENDER MRT STATION,iTEA - Lavender,1.0,"70 Jellicoe Rd, #01-18 V Hotel, Singapore",1.3080123,103.862551
+LAVENDER MRT STATION,The Alley Aperia Mall,3.3,"12 Kallang Ave, #01-27, Singapore",1.3103444,103.8641272
+TAI SENG MRT STATION,LiHO TEA @ 18 Tai Seng,4.3,"18 Tai Seng St, #B1-11, 18 Tai Seng, Singapore",1.3363708,103.8887929
+TAI SENG MRT STATION,Fruce (Commerze@Irving),5.0,"1 Irving Pl, #01-30 The Commerze@Irving, Singapore",1.3362172,103.8863609
+TAI SENG MRT STATION,FiNE TEA! (Preorder bulk order only),4.6,"62 UBI ROAD 1, OXLEY BIZHUB 2, #06-20",1.3322686,103.892106
+ROCHOR MRT STATION,LiHO TEA @ Burlington Square,3.4,"#01-53, Burlington Square, 175 Bencoolen Street",1.3027564,103.8523178
+ROCHOR MRT STATION,Feng Cha Singapore 奉茶新加坡,3.4,175B Bencoolen Street Burlington Square #01-56,1.3026578,103.8522349
+ROCHOR MRT STATION,Sharetea,3.9,"200 Victoria St, #01-14A, Singapore",1.2995405,103.8555711
+ROCHOR MRT STATION,MIXUE Bugis,4.2,"241 Victoria St, Singapore",1.3004058,103.8553245
+ROCHOR MRT STATION,Gong Ju Cha,4.6,"190 Middle Rd, Singapore",1.3005243,103.8521508
+ROCHOR MRT STATION,LiHO TEA @ Bugis+,3.9,"201 Victoria St, #03-29 to 30 Bugis+, Singapore",1.2995955,103.8542191
+ROCHOR MRT STATION,LiHO TEA @ Bugis Street,4.0,"3 New Bugis Street, Singapore",1.3000208,103.854655
+ROCHOR MRT STATION,Super Dream,3.9,"3 New Bugis Street, #01-MSV1 New Bugis Street, Singapore",1.3006613,103.8549626
+ROCHOR MRT STATION,CHA YU FAN HOU,4.8,"Selegie Rd, 1号#02-07",1.3003876,103.849198
+ROCHOR MRT STATION,Feng Shui Tang 豐水堂,5.0,"190 Middle Rd, #01-37, Singapore",1.3002759,103.8525166
+LITTLE INDIA MRT STATION,LiHO TEA @ Burlington Square,3.4,"#01-53, Burlington Square, 175 Bencoolen Street",1.3027564,103.8523178
+LITTLE INDIA MRT STATION,Feng Cha Singapore 奉茶新加坡,3.4,175B Bencoolen Street Burlington Square #01-56,1.3026578,103.8522349
+BUKIT PANJANG MRT STATION,LiHO TEA @ Junction 10,4.5,"1 Woodlands Rd, #01-26 Junction 10, Singapore",1.3804555,103.7600795
+BUKIT PANJANG MRT STATION,Koi Cafe,4.2,"17 Petir Rd, #B2-53, Singapore",1.3782836,103.7627251
+BUKIT PANJANG MRT STATION,CHICHA San Chen Hillion Mall,4.1,"17 Petir Rd, B2-17, Singapore",1.3784298,103.763132
+BUKIT PANJANG MRT STATION,each a cup @ Bukit Panjang Integrated Transport Hub,3.6,"15, #01-61 Petir Rd",1.3783857,103.7635192
+BUKIT PANJANG MRT STATION,LiHO TEA @ Bukit Panjang Plaza,3.9,"1 Jelebu Road, Bukit Panjang Plaza #01-21",1.3801103,103.764306
+BUKIT PANJANG MRT STATION,each a cup @ Senja-Cashew CC,3.0,"101 Bukit Panjang Rd, #01-03 Senja-Cashew CC, Singapore",1.3815707,103.7647199
+TOA PAYOH MRT STATION,Hollin Singapore Toa Payoh Central,4.5,"190 Toa Payoh Central, #01-564 Opposite HDB Hub, Singapore",1.3330016,103.8486046
+TOA PAYOH MRT STATION,Mong Cha Cha Cafe 梦茶茶,4.4,"79E Toa Payoh Central, #01-75, Singapore",1.3345245,103.8494652
+TOA PAYOH MRT STATION,LiHO TEA @ Toa Payoh Central,3.5,"#01-536, Toa Payoh Central, 190 Lorong 6",1.3328523,103.8481795
+TOA PAYOH MRT STATION,KOI Café,3.9,"490 Lor 6 Toa Payoh, #01-23 HDB Hub, Singapore",1.3322223,103.8485152
+TOA PAYOH MRT STATION,Each A Cup - Blk 177 Toa Payoh Central,3.2,"Blk 177 Toa Payoh Central, #01-154, Singapore",1.3339123,103.8491831
+TOA PAYOH MRT STATION,Gong Cha Classic,2.6,"190 Lorong 6 Toa Payoh, Toa Payoh Central, #01-546, Singapore",1.3329225,103.8484101
+TOA PAYOH MRT STATION,R&B Tea,4.0,"460 Lor 6 Toa Payoh, Singapore",1.3320776,103.8496435
+TOA PAYOH MRT STATION,The Whale Tea SG - Toa Payoh Central HDB Hub,3.8,"190 Lor 6 Toa Payoh, #01-536, Central",1.3329648,103.8486276
+TOA PAYOH MRT STATION,CHAGEE 霸王茶姬 @ Toa Payoh Central,4.2,"192 Lor 4 Toa Payoh, Singapore",1.3317591,103.8502028
+TOA PAYOH MRT STATION,福气,0.0,"450 Lor 6 Toa Payoh, Singapore",1.3317097,103.8494335
+TOA PAYOH MRT STATION,BobaBebe,4.3,"85A Lor 4 Toa Payoh, #01-304D, Singapore",1.3362683,103.8495607
+WOODLANDS SOUTH MRT STATION,each a cup - Woodlands South MRT,4.2,"130 Woodlands Ave 1, B1-02, Singapore",1.4273397,103.793168
+POTONG PASIR MRT STATION,LiHO TEA @ The Poiz Centre,3.6,"51 Upper Serangoon Rd, #01-16 The Poiz Centre, Singapore",1.331429,103.8684274
+POTONG PASIR MRT STATION,Bober Tea @ Esso Macpherson,4.9,"110 MacPherson Rd, Esso Service Station, Singapore",1.3286679,103.8718834
+HOUGANG MRT STATION,LiHO TEA @ Hougang Mall,3.8,"90 Hougang Ave 10, #02-08, Singapore",1.3726584,103.8940158
+HOUGANG MRT STATION,ITEA Hougang 811,3.2,"811 Hougang Central, #01-210, Singapore",1.3718165,103.893602
+BOON KENG MRT STATION,Bober Tea @ Boon Keng,3.3,"27 Bendemeer Rd, Singapore",1.3186505,103.863095
+BOON KENG MRT STATION,LiHO TEA @ Bendemeer Shopping Centre,3.9,"25 Bendemeer Rd, #01-583, Singapore",1.318725,103.8626755
+UPPER CHANGI MRT STATION,Gong Cha,4.1,"8 Somapah Rd, #01-302 Building 3, Singapore",1.3407216,103.9636989
+CHANGI AIRPORT MRT STATION,LiHO @ T3 Public,4.4,"65 Airport Blvd., #01-23 Arrival Meeting Hall, Terminal 3, Singapore",1.3555805,103.9861962
+CHANGI AIRPORT MRT STATION,Chun Yang Tea,3.8,"78 Airport Blvd., #03 - 207, Singapore",1.359631,103.9897508
+CHANGI AIRPORT MRT STATION,Signature KOI @ Jewel Changi Airport,3.8,"78 Airport Blvd, #01, K206, Singapore",1.3601374,103.9903629
+CHANGI AIRPORT MRT STATION,CHICHA San Chen Jewel Changi,4.2,"Jewel, 78 Airport Blvd., B2-213 Singapore Changi Airport",1.3603912,103.989642
+CHANGI AIRPORT MRT STATION,Koi Express,0.0,"60 Airport Blvd., Singapore",1.3551116,103.9890226
+BRADDELL MRT STATION,Tea Dojo,4.2,"107 Lor 1 Toa Payoh, #01-254, Singapore",1.3412358,103.8474196
+BRADDELL MRT STATION,Cool Cup,3.9,"Toa Payoh N, #01-1107 Block 203, Singapore",1.342108,103.8493407
+BRADDELL MRT STATION,Tea Apothecary,4.0,"128 Lor 1 Toa Payoh, #01-827, View",1.3377764,103.8442869
+BRADDELL MRT STATION,BobaBebe,4.3,"85A Lor 4 Toa Payoh, #01-304D, Singapore",1.3362683,103.8495607
+BUANGKOK MRT STATION,TeaGIF Snack Bar,3.3,"275D Compassvale Link, #01-10, Singapore",1.3827716,103.8937965
+BUANGKOK MRT STATION,I Love Taimei SengKang Grand Mall,5.0,"70 Compassvale Bow, #01-09 Sengkang Grand Mall, Singapore",1.3818893,103.892745
+BUANGKOK MRT STATION,KOI Express,4.0,"70 Compassvale Bow, B1-05 Sengkang Grand Mall, Singapore",1.3832715,103.8929509
+PROMENADE MRT STATION,KOI Thé,4.3,"9 Raffles Boulevard, #01-85, Millenia Walk, Singapore",1.2933559,103.8597693
+PROMENADE MRT STATION,PARTEA 茶派 @ Suntec City,3.9,"3 Temasek Boulevard Suntec City Mall, North Wing, #02-470",1.2957108,103.8586488
+PROMENADE MRT STATION,Hollin Singapore Suntec City,4.5,"Suntec City East Wing, 3 Temasek Blvd, #02-616 near DBS",1.2956198,103.8597096
+PROMENADE MRT STATION,LiHO TEA @ Suntec City B1 (w/ seating),3.5,"3 Temasek Boulevard, #B1, #175",1.2960707,103.8589791
+PROMENADE MRT STATION,TP Tea Suntec City,3.3,"3 Temasek Blvd, #B1-11 West Wing, Singapore",1.2941774,103.8572201
+PROMENADE MRT STATION,U-CHA 优茶,0.0,"9 Temasek Blvd, Singapore",1.2957859,103.858984
+PROMENADE MRT STATION,CHAGEE 霸王茶姬 @ Suntec City,4.0,"3 Temasek Blvd, #02-312 West Wing Retail Mall, Singapore",1.2938436,103.8571497
+PROMENADE MRT STATION,Milksha - Suntec City,3.9,"3 Temasek Blvd, #02-375/376 Suntec City, Singapore",1.2932899,103.857305
+PROMENADE MRT STATION,R&B Premier,3.5,Singapore,1.2923095,103.8597595
+PROMENADE MRT STATION,Signature KOI (Suntec City),4.1,"3 Temasek Boulevard #01-429/430/432, Mall, Tower 5 Suntec City North Wing",1.2949616,103.8578483
+PROMENADE MRT STATION,CHICHA San Chen Marina Square,4.2,"6 Raffles Blvd, #02-208 Marina Square, Singapore",1.2911534,103.8576778
+RAFFLES PLACE MRT STATION,LiHO TEA @ One Raffles Place,4.3,"1 Raffles Pl, B1-10, Singapore",1.2846813,103.85115
+RAFFLES PLACE MRT STATION,Koi Thé - The Arcade,4.3,"11 Collyer Quay, #01-12, Singapore",1.2835725,103.8520216
+RAFFLES PLACE MRT STATION,Gong Cha,3.8,"1 Raffles Pl, #B1-39, Singapore",1.2844024,103.8509818
+RAFFLES PLACE MRT STATION,The Alley One Raffles Place,3.0,"1 Raffles Pl, #B1-38, Singapore",1.2844024,103.8509818
+RAFFLES PLACE MRT STATION,Tea Pulse Raffles Place,4.7,"3 Phillip St, #01-04 ROYAL GROUP BUILDING, Singapore",1.2847462,103.8499043
+RAFFLES PLACE MRT STATION,CHICHA San Chen CIMB Plaza,3.9,"30 Raffles Pl, B1-20/21 Change Alley Mall, CIMB Plaza, Singapore",1.2842695,103.8514308
+RAFFLES PLACE MRT STATION,PARTEA 茶派,0.0,"24 Raffles Place #B1, #2 Foodfare Clifford Centre Foodcourt, Counter",1.2838533,103.8519697
+RAFFLES PLACE MRT STATION,PlayMade by 丸作 @ Marina Bay Link Mall,3.2,"8A Marina Blvd, #B2-43 Marina Bay Link Mall",1.2798897,103.8548685
+RAFFLES PLACE MRT STATION,Gong Cha,3.6,"121 Telok Ayer St, Singapore",1.2812571,103.8480068
+HOLLAND VILLAGE MRT STATION,KOI Express,3.6,"200 Holland Ave, B1-06 MRT Station, Singapore",1.3111723,103.7961154
+HOLLAND VILLAGE MRT STATION,each a cup @ Holland Village MRT,2.9,"200 Holland Ave, Singapore",1.3111723,103.7961154
+OUTRAM PARK MRT STATION,LiHO TEA @ Lucky Chinatown,4.0,"211 New Bridge Rd, #01-09 Lucky Chinatown, Singapore",1.2838269,103.8435089
+OUTRAM PARK MRT STATION,Tastea 真好喝,4.7,"Park Rd, People's Park Complex, #01-K99F, Singapore",1.2846842,103.8426295
+TELOK BLANGAH MRT STATION,each a cup @ Telok Blangah Street 32,3.3,"78A Telok Blangah Street 32, #01-10, Singapore",1.2735039,103.8090393
+TELOK BLANGAH MRT STATION,Sin Chow Fruits and Bubble Tea,4.0,"78A Telok Blangah Street 32, Singapore",1.2735964,103.8089348
+TELOK AYER MRT STATION,LiHO TEA @ One Raffles Place,4.3,"1 Raffles Pl, B1-10, Singapore",1.2846813,103.85115
+TELOK AYER MRT STATION,Tea Pulse Raffles Place,4.7,"3 Phillip St, #01-04 ROYAL GROUP BUILDING, Singapore",1.2847462,103.8499043
+TELOK AYER MRT STATION,Ke Cha,0.0,"18 Raffles Quay Lau Pa Sat Market, Singapore",1.280805,103.850155
+TELOK AYER MRT STATION,Gong Cha,3.6,"121 Telok Ayer St, Singapore",1.2812571,103.8480068
+TELOK AYER MRT STATION,Hey Long Cha @ Chinatown Point,4.7,"133 New Bridge Rd, #B1-46 Chinatown Point, Singapore",1.2851587,103.8447978
+TELOK AYER MRT STATION,Woobbee,4.3,"133 New Bridge Rd, #02 - 26, Singapore",1.2853022,103.8451113
+TELOK AYER MRT STATION,Gong Cha,3.8,"1 Raffles Pl, #B1-39, Singapore",1.2844024,103.8509818
+TELOK AYER MRT STATION,Koi Thé - The Arcade,4.3,"11 Collyer Quay, #01-12, Singapore",1.2835725,103.8520216
+TELOK AYER MRT STATION,LiHO TEA @ Asia Square Tower 2,3.5,"12 Marina View, #02-08, Singapore",1.2788226,103.850949
+TELOK AYER MRT STATION,KOI Thé @ Chinatown Point,4.3,"133 New Bridge Rd, #01-39 Chinatown Point, Singapore",1.2855263,103.845189
+TELOK AYER MRT STATION,The Alley One Raffles Place,3.0,"1 Raffles Pl, #B1-38, Singapore",1.2844024,103.8509818
+TELOK AYER MRT STATION,PlayMade by 丸作 @ Chinatown Point,3.3,"133 New Bridge Rd, #B1-42 Chinatown Point, Singapore",1.2853664,103.8451636
+TELOK AYER MRT STATION,NestCha,4.2,"133 New Bridge Rd, B1-50, Singapore",1.2852093,103.8447228
+TELOK AYER MRT STATION,CHICHA San Chen CIMB Plaza,3.9,"30 Raffles Pl, B1-20/21 Change Alley Mall, CIMB Plaza, Singapore",1.2842695,103.8514308
+TELOK AYER MRT STATION,CHAGEE 霸王茶姬 @ Chinatown Point,4.2,"133 New Bridge Rd, #02-51 Chinatown Point, Singapore",1.2852093,103.8447228
+CANBERRA MRT STATION,Yi Fang Taiwan Fruit Tea,4.2,"133 Canberra View, #01-10 Canberra Plaza, Singapore",1.4432772,103.8305002
+CANBERRA MRT STATION,Koi Thé Express @ Canberra MRT,3.5,"Canberra Link, Singapore",1.4432376,103.8299414
+MAYFLOWER MRT STATION,Sugarcube,4.7,"260 Ang Mo Kio Street 21, #01-04",1.3689339,103.8347228
+BRIGHT HILL MRT STATION,Cold Rock Cafe,4.7,Sin Ming Ave,1.3629387,103.8331683
+UPPER THOMSON MRT STATION,LiHO TEA @ Thomson Plaza,4.2,"301 Upper Thomson Rd, #01-K11 Thomson Plaza, Singapore",1.3548791,103.8308643
+UPPER THOMSON MRT STATION,R&B Tea,3.2,"301 Upper Thomson Rd, #01-106, Singapore",1.3548791,103.8308644
+UPPER THOMSON MRT STATION,Tea-rific,5.0,"24 Sin Ming Rd, #01-49, Singapore",1.3553434,103.8364533

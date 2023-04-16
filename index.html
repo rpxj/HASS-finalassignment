@@ -37,12 +37,14 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         background-color: rgb(255, 242, 235);
         line-height: 1.58;
         letter-spacing: -.003em;
+        margin: 0;
+        padding: 0;
     }
      h1{
         display: block;
         font-family: 'Tilt Neon', cursive;
         text-align: center;
-        font-size: 5em;
+        font-size: 7em;
         padding-top: 1em;
         padding-left: 1em;
         text-shadow: 0 0 5px #fff, 0 0 15px #fff; /* Set the glow effect */
@@ -71,6 +73,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 
      .container_head{
         height: 100vh;
+        margin:0;
+        padding: 0;
      }
 
      .container_head img{
@@ -79,6 +83,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         height: 100vh;
         object-fit: cover;
         z-index: -1;
+        margin: 0;
+        padding: 0;
      }
 
      .content{
@@ -88,6 +94,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         min-height: 100vh;
         z-index: 2;
         position: absolute;
+        margin: 0;
+        padding: 0;
      }
 
      .main-title{
@@ -101,6 +109,9 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         display: flex;
         align-items: center;
         justify-content: center;
+        width: 100%;
+        margin: 0;
+        padding: 0;
      }
 
      .image-container{
@@ -109,6 +120,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         justify-content: center;
         width: 100%;
         height: 100%;
+        margin: 0;
+        padding: 0;
      }
      
      #reveal1 {
@@ -168,7 +181,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         align-items: center;
         width: 100%;
         margin: 0 auto;
-        padding: 1em;
+        padding: 0;
         padding-bottom: 3em;
         box-sizing: border-box;
       }
@@ -232,6 +245,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         width: 100%;
         opacity: 0;
         transition: .5s ease;
+        margin: 0;
+        padding: 0;
     }
     .bobabar:hover .overlay{
         opacity: 1;
@@ -268,12 +283,12 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
                 <div class="bobabar">
                     <img src="boba_hidden.svg" style="display: block">
                     <div class="overlay">
-                        <img src="boba_reveal.svg">
+                        <img src="boba_bar_reveal2.svg">
                     </div>
                 </div>
 
                 <div id="text2">
-                    <p>Gross margins can be high, but net margins can be low due to high rental and manpower costs, with some companies making loses. The bar chart is a breakdown of Nayuki's (top bubble tea chain in China) store profitability in 2021. 
+                    <p>Gross margins can be high, but net margins can be low due to high rental and manpower costs, with some companies making loses. The bar chart is a breakdown of <a href="https://nayuki-umb.azurewebsites.net/media/p0vduyky/2021-annual-results-presentation-v16-eng.pdf">Nayuki's</a> (top bubble tea chain in China) store-level profitability in 2021. 
     Companies try to improve their profitability through reducing operating expenses (fresh ingredients cost more, increased diversity in offerings requires better inventory management), improving their supply chain efficiency, store efficiency (select ideal store location and optimise space taken), and manpower efficiency (e.g. standardise process). Companies with a rapid expansion strategy will face difficulties in controlling manpower and rental efficiencies in the short term but in the long term, there could be economies of scale which translate to cost savings.</p>
                 </div>
             </div>
@@ -313,7 +328,6 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 </body>
 
 <script>
-
 //javascript for title and header
 var controller = new ScrollMagic.Controller();
 var timeline = new TimelineMax();

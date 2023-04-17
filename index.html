@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
     
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+
     <script src="https://d3js.org/d3.v4.js"></script>
 
     <script>L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
@@ -190,6 +192,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         width: 100%;
         height: auto;
       }
+    
       #text2 {
         width: 100%;
         align-items: top;
@@ -197,7 +200,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         box-sizing: border-box;
         font-family: 'Barlow';
       }
-
+      
     .legend {
         position:relative;    
         left: 2.5em;
@@ -260,6 +263,8 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         
 </head>
 <body>
+
+<div class="container-fluid">
 <section>
     <div class="container_head">
     <h1 class="main-title">So, you want to own a Boba store</h1>
@@ -278,22 +283,24 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 
     <section class="panel one">
         <h2>Top Stores Have 60% in Gross Margins But the Net Margins Paint a Different Picture</h2>
-            <div id="container2">
-                
+            <div id="container2" class="row">
+                <div class="col">
                 <div class="bobabar">
                     <img src="boba_hidden.svg" style="display: block">
                     <div class="overlay">
                         <img src="boba_bar_reveal2.svg">
                     </div>
                 </div>
-
+                </div>
+                
+                <div class="col">
                 <div id="text2">
                     <p>Gross margins can be high, but net margins can be low due to high rental and manpower costs, with some companies making loses. The bar chart is a breakdown of <a href="https://nayuki-umb.azurewebsites.net/media/p0vduyky/2021-annual-results-presentation-v16-eng.pdf">Nayuki's</a> (top bubble tea chain in China) store-level profitability in 2021. 
     Companies try to improve their profitability through reducing operating expenses (fresh ingredients cost more, increased diversity in offerings requires better inventory management), improving their supply chain efficiency, store efficiency (select ideal store location and optimise space taken), and manpower efficiency (e.g. standardise process). Companies with a rapid expansion strategy will face difficulties in controlling manpower and rental efficiencies in the short term but in the long term, there could be economies of scale which translate to cost savings.</p>
                 </div>
+                </div>
             </div>
     </section>
-
 
     <h2 style="padding-top: 1em;">Selecting a Store Location</h2>
     <p>Choosing the right spot to start your bubble tea store requires an understanding about consumers and the market. Many bubble tea shops are set up near train stations as they have high footfall. The density of bubble tea shops, and by extension intensity of competition, near each train station is the highest in the Central Business District Area. Perhaps because high stress, sleep deprived and high earning power workers make ideal customers.</p>
@@ -306,28 +313,40 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         <span class="circle small"></span><span>1-4 stores</span>
     </div>
 
-    <div class="folium-map" id="map_a3d00abc80212af2517dcddab57f29d2"></div>
-
-    <div id="container2">
-        <div id="text2">
+    <div class="row">
+        <div class="col">
+        <div class="folium-map" id="map_a3d00abc80212af2517dcddab57f29d2"></div>
+        </div>
+    </div>
+    
+    <div class="row">
+        
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <h2>Many Stations Have 10 or More BBT Stores Near Them</h2>
             <p>Surprisingly, <b>three quarters</b> of the stations with the most BBT stores are in the CBD! Regional hubs like Jurong East and Tampines rank among the top regions with the most BBT stores. There are around <b>60 brands</b> of BBT and <b>562 BBT stores</b> in Singapore in 2023. Experts have called this a purple ocean market - hypercompetitive and oversaturated. BBT brands with the most number of stores are LiHO Tea (103) and KOI (82).</p>
             <img src="NumberofStores.svg" style="width: 95%; padding-top: 2em;">
         </div>
-        <div id="chart2">
+        
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <div id="bubble"></div>
         </div>
+
     </div>
 
+    
     <div class="panel one">
     <h2>Conclusion</h2>
     <p>While Singaporean's love affair with bubble tea is here to stay, the data shows that it is not easy to enter the bubble tea market and compete successfully in it.</p>
     <p style="padding-bottom: 20em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
     </div>
+
 </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 </body>
 
 <script>
+
 //javascript for title and header
 var controller = new ScrollMagic.Controller();
 var timeline = new TimelineMax();

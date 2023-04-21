@@ -231,7 +231,11 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
     .bobabar:hover .overlay{
         opacity: 1;
     }
-    
+
+    .tooltip{
+        position: absolute;
+    }
+
     </style>
 
 <title>Assignment5</title>
@@ -405,21 +409,6 @@ var tooltip = d3.select("#bubble")
     .style("border-radius", "5px")
     .style("padding", "5px")
 
-// Add mouseover and mouseout events
-var mouseover = function(d2) {
-  tooltip.style("opacity", 1);
-}
-
-var mousemove = function(d2) {
-  tooltip.html(d2.STN_NAME + "<br/>" + d2.Count)
-    .style("left", (d3.event.pageX + 10) + "px")
-    .style("top", (d3.event.pageY + 10) + "px");
-}
-
-var mouseout = function(d2) {
-  tooltip.style("opacity", 0);
-}
-
 //create graph  
 d3.csv("mrt_bbt.csv", function(data_2) {
   // A scale that gives a X target position for each group
@@ -440,9 +429,6 @@ d3.csv("mrt_bbt.csv", function(data_2) {
       .style("fill", function(d2) { return color_2(d2.Category); })
       .style("fill-opacity", 0.8)
       .attr("stroke", "none")
-      .on("mouseover", mouseover)
-      .on("mousemove", mousemove)
-      .on("mouseout", mouseout)
       .call(d3.drag() // call specific function when circle is dragged
            .on("start", dragstarted)
            .on("drag", dragged)
@@ -492,10 +478,7 @@ d3.csv("mrt_bbt.csv", function(data_2) {
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
-            
-                tooltip.html(d2.STN_NAME + "<br/>" + d2.Count)
-                .style("left", (d3.event.pageX) + "px")
-                .style("top", (d3.event.pageY - 28) + "px");
+            tooltip.html(d2.STN_NAME + "<br/>" + d2.Count);
             })
         .on("mouseout", function(d2) {
         // Hide tooltip on mouseout

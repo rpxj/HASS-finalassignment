@@ -3,34 +3,29 @@
 <head>
     
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&family=Tilt+Neon&display=swap" rel="stylesheet">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400&family=Tilt+Neon&display=swap" rel="stylesheet">
     
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
     
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-
-    <script src="https://d3js.org/d3.v4.js"></script>
-
-    <script>L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     
 <style>
 html {width: 100%; height: 100%; margin: 0;padding: 0;}
@@ -42,14 +37,15 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         margin: 0;
         padding: 0;
     }
+
      h1{
         display: block;
         font-family: 'Tilt Neon', cursive;
+        color: #381a00;
         text-align: center;
         font-size: 7em;
         padding-top: 1em;
         padding-left: 1em;
-        text-shadow: 0 0 5px #fff, 0 0 15px #fff; /* Set the glow effect */
      }
 
      h2{
@@ -105,25 +101,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         top: 10%;
         left: 48%;
         transform: translate(-50%, -10%);
-     }
-
-     .container{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-     }
-
-     .image-container{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        padding: 0;
+        opacity: 0;
      }
      
      #reveal1 {
@@ -150,10 +128,10 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 
     #map_a3d00abc80212af2517dcddab57f29d2 {
         position: relative;
-        left: 0.0%;
+        left: 2.5em;
         top: 0.0%;
-        width: 1280px;
-        height: 600px;
+        width: 100rem;
+        height: 50rem;
         padding-left: 1em;}
                 
     .leaflet-container { font-size: 1rem; }
@@ -170,10 +148,13 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 	.panel.one {
 		background-color: #E29B71;
         display:flex;
+        width: 100%;
 	}
+
     .panel.two {
 		background-color: rgb(255, 242, 235);
         display:flex;
+        width: 100%;
 	}
 
     #container2 {
@@ -186,11 +167,6 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         padding: 0;
         padding-bottom: 3em;
         box-sizing: border-box;
-      }
-
-      #chart2 {
-        width: 100%;
-        height: auto;
       }
     
       #text2 {
@@ -219,22 +195,23 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         }
 
     .small {
-    width: 15px;
-    height: 15px;
-    background-color: #FF8FB5;
+        width: 15px;
+        height: 15px;
+        background-color: #FF8FB5;
     }
 
     .medium {
-    width: 25px;
-    height: 25px;
-    background-color: #723600;
+        width: 25px;
+        height: 25px;
+        background-color: #723600;
     }
 
     .large {
-    width: 30px;
-  height: 30px;
-  background-color: #FCB900;
+        width: 30px;
+        height: 30px;
+        background-color: #FCB900;
     }
+
     .bobabar{
         position: relative;
     }
@@ -254,117 +231,127 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
     .bobabar:hover .overlay{
         opacity: 1;
     }
-
-    </style>
-
     
+    </style>
 
 <title>Assignment5</title>
         
 </head>
 <body>
-
 <div class="container-fluid">
-<section>
-    <div class="container_head">
-    <h1 class="main-title">So, you want to own a Boba store</h1>
-    <img src="7.svg" class="bg1" alt=""/>
-    <img src="8.svg" class="cafe" alt=""/>
-    <img src="6.svg" class="bubbles" alt=""/>
-    </div>
-</section>
-
-<div class="content">
-
-    <h2>Southeast Asia Spends US$3.7B on Boba </h2>
-    <p>Para on the Southeast Asian Bubble Tea market – Bubble map to show the size of the market for each country in Southeast Asia.</p>
-    <p style="padding-bottom: 25em;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque repellat quibusdam obcaecati odit molestiae sequi veritatis excepturi minima quis sed quo architecto vel, ullam officia? Hic sit incidunt necessitatibus tempore.</p>
-
-
-    <section class="panel one">
-        <h2>Top Stores Have 60% in Gross Margins But the Net Margins Paint a Different Picture</h2>
-            <div id="container2" class="row">
-                <div class="col">
-                <div class="bobabar">
-                    <img src="boba_hidden.svg" style="display: block">
-                    <div class="overlay">
-                        <img src="boba_bar_reveal2.svg">
-                    </div>
-                </div>
-                </div>
-                
-                <div class="col">
-                <div id="text2">
-                    <p>Gross margins can be high, but net margins can be low due to high rental and manpower costs, with some companies making loses. The bar chart is a breakdown of <a href="https://nayuki-umb.azurewebsites.net/media/p0vduyky/2021-annual-results-presentation-v16-eng.pdf">Nayuki's</a> (top bubble tea chain in China) store-level profitability in 2021. 
-    Companies try to improve their profitability through reducing operating expenses (fresh ingredients cost more, increased diversity in offerings requires better inventory management), improving their supply chain efficiency, store efficiency (select ideal store location and optimise space taken), and manpower efficiency (e.g. standardise process). Companies with a rapid expansion strategy will face difficulties in controlling manpower and rental efficiencies in the short term but in the long term, there could be economies of scale which translate to cost savings.</p>
-                </div>
-                </div>
-            </div>
+    <section>
+        <div class="container_head">
+            <h1 class="main-title">So, you want to own a Boba store</h1>
+            <img src="7.svg" class="parallax" data-rellax-speed="-9" alt=""/>
+            <img src="8.svg" class="parallax" data-rellax-speed="-7" alt=""/>
+            <img src="6.svg" class="parallax" data-rellax-speed="-4" alt=""/>
+        </div>
     </section>
 
-    <h2 style="padding-top: 1em;">Selecting a Store Location</h2>
-    <p>Choosing the right spot to start your bubble tea store requires an understanding about consumers and the market. Many bubble tea shops are set up near train stations as they have high footfall. The density of bubble tea shops, and by extension intensity of competition, near each train station is the highest in the Central Business District Area. Perhaps because high stress, sleep deprived and high earning power workers make ideal customers.</p>
-        
-    <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 1.5em;"><strong>Number of BBT stores near MRT stations in Singapore</strong></p>
-    <div class="legend">
-        <span><strong>Legend:</strong></span>
-        <span class="circle large"></span><span>10 or more stores</span>
-        <span class="circle medium"></span><span>5-9 stores</span>
-        <span class="circle small"></span><span>1-4 stores</span>
-    </div>
-
-    <div class="row">
-        <div class="col">
-        <div class="folium-map" id="map_a3d00abc80212af2517dcddab57f29d2"></div>
+    <div class="content">
+        <div class="appear">
+            <h2>Southeast Asia Spends US$3.7B on Boba </h2>
+            <p>Para on the Southeast Asian Bubble Tea market – Bubble map to show the size of the market for each country in Southeast Asia.</p>
+            <p style="padding-bottom: 25em;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque repellat quibusdam obcaecati odit molestiae sequi veritatis excepturi minima quis sed quo architecto vel, ullam officia? Hic sit incidunt necessitatibus tempore.</p>
         </div>
-    </div>
+
+        <section class="panel one">
+            <div id="container2" class="row appear">
+                <div class="col-md-6">
+                    <div id="text2">
+                        <h2>Top Stores Have 60% in Gross Margins But the Net Margins Paint a Different Picture</h2>
+                        <p>Gross margins can be high, but net margins can be low due to high rental and manpower costs, with some companies making loses. The bar chart is a breakdown of <a href="https://nayuki-umb.azurewebsites.net/media/p0vduyky/2021-annual-results-presentation-v16-eng.pdf">Nayuki's</a> (top bubble tea chain in China) store-level profitability in 2021. 
+    Companies try to improve their profitability through reducing operating expenses (fresh ingredients cost more, increased diversity in offerings requires better inventory management), improving their supply chain efficiency, store efficiency (select ideal store location and optimise space taken), and manpower efficiency (e.g. standardise process). Companies with a rapid expansion strategy will face difficulties in controlling manpower and rental efficiencies in the short term but in the long term, there could be economies of scale which translate to cost savings.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="bobabar">
+                        <img src="boba_hidden.svg" style="display: block" class="img-fluid">
+                        <div class="overlay">
+                            <img src="boba_bar_reveal2.svg" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="appear">
+            <h2 style="padding-top: 1em;">Selecting a Store Location</h2>
+            <p>Choosing the right spot to start your bubble tea store requires an understanding about consumers and the market. Many bubble tea shops are set up near train stations as they have high footfall. The density of bubble tea shops, and by extension intensity of competition, near each train station is the highest in the Central Business District Area. Perhaps because high stress, sleep deprived and high earning power workers make ideal customers.</p>
+        
+            <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 1.5em;"><strong>Number of BBT stores near MRT stations in Singapore</strong></p>
+            <div class="legend">
+                <span><strong>Legend:</strong></span>
+                <span class="circle large"></span><span>10 or more stores</span>
+                <span class="circle medium"></span><span>5-9 stores</span>
+                <span class="circle small"></span><span>1-4 stores</span>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <div class="folium-map" id="map_a3d00abc80212af2517dcddab57f29d2"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row appear"> 
+            <div class="col-lg-6 col-md-6 col-sm-12" style="padding-top: 2.5em;">
+                <h2>Many Stations Have 10 or More BBT Stores Near Them</h2>
+                <p>Surprisingly, <b>three quarters</b> of the stations with the most BBT stores are in the CBD! Regional hubs like Jurong East and Tampines rank among the top regions with the most BBT stores. There are around <b>60 brands</b> of BBT and <b>562 BBT stores</b> in Singapore in 2023. Experts have called this a purple ocean market - hypercompetitive and oversaturated. BBT brands with the most number of stores are LiHO Tea (103) and KOI (82).</p>
+                <img src="NumberofStores.svg" style="width: 95%; padding-top: 2em;">
+            </div>
+        
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div id="bubble"></div>
+            </div>
+        </div>
+
     
-    <div class="row">
-        
-        <div class="col-lg-6 col-md-6 col-sm-12">
-            <h2>Many Stations Have 10 or More BBT Stores Near Them</h2>
-            <p>Surprisingly, <b>three quarters</b> of the stations with the most BBT stores are in the CBD! Regional hubs like Jurong East and Tampines rank among the top regions with the most BBT stores. There are around <b>60 brands</b> of BBT and <b>562 BBT stores</b> in Singapore in 2023. Experts have called this a purple ocean market - hypercompetitive and oversaturated. BBT brands with the most number of stores are LiHO Tea (103) and KOI (82).</p>
-            <img src="NumberofStores.svg" style="width: 95%; padding-top: 2em;">
+        <div class="panel one">
+            <div class="appear">
+                <h2>Conclusion</h2>
+                <p>While Singaporean's love affair with bubble tea is here to stay, the data shows that it is not easy to enter the bubble tea market and compete successfully in it.</p>
+                <p style="padding-bottom: 20em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
+            </div>
         </div>
-        
-        <div class="col-lg-6 col-md-6 col-sm-12">
-            <div id="bubble"></div>
-        </div>
-
     </div>
-
-    
-    <div class="panel one">
-    <h2>Conclusion</h2>
-    <p>While Singaporean's love affair with bubble tea is here to stay, the data shows that it is not easy to enter the bubble tea market and compete successfully in it.</p>
-    <p style="padding-bottom: 20em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
-    </div>
-
 </div>
-</div>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+
+<!--PARALLAX SCROLLING-->
+<script src="rellax.min.js"></script>
+
+<!-- SCROLL REVEAL -->
+<script src="https://unpkg.com/scrollreveal"></script>
+
+<!-- D3 -->
+<script src="https://d3js.org/d3.v4.js"></script>
 </body>
 
 <script>
 
-//javascript for title and header
-var controller = new ScrollMagic.Controller();
-var timeline = new TimelineMax();
+/*====== RELLAX =====*/
+var rellax = new Rellax('.parallax');
 
-timeline
-.to('.bubbles', 3, {y:-400})
-.to('.cafe', 3, {y:-50}, "-=3")
-.fromTo('.bg1', 3, {y:-30}, {y:0, duration: 3}, "-=3")
-.to('.content', 3, {top: "0%"}, "-=3");
+/*=====MAIN TITLE====*/
+gsap.to(".main-title", {
+  duration: 2.5,
+  delay: 0.5, 
+  opacity: 1,
+  textShadow: "0px 0px 15px rgba(255, 255, 255)",
+  filter: "glow(70px 70px 30px rgba(255, 255, 255))",
+});
 
-let scene = new ScrollMagic.Scene({
-    triggerElement:'section',
-    duration: '100%',
-    triggerHook: 0,
-})
-.setTween(timeline)
-.setPin("section")
-.addTo(controller);
+/*====== SCROLL REVEAL SECTION ======*/
+const sr = ScrollReveal({
+    duration: 2500,
+    reset: true
+});
+
+/*Data*/
+sr.reveal('.appear',{origin: 'left',distance: '70px'}); 
 
 //Boba Bubble Chart
 // set the dimensions and margins of the graph
@@ -383,6 +370,7 @@ svg_2.append("text")
     .attr("y",height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
+    .style("font-size", "1.2em")
     .text("1-4 Stores");
 
 svg_2.append("text")
@@ -390,6 +378,7 @@ svg_2.append("text")
     .attr("y", height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
+    .style("font-size", "1.2em")
     .text("5-9 Stores");
 
 svg_2.append("text")
@@ -397,6 +386,7 @@ svg_2.append("text")
     .attr("y", height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
+    .style("font-size", "1.2em")
     .text("10 or more Stores");
 
 // A color scale
@@ -521,7 +511,7 @@ var map_a3d00abc80212af2517dcddab57f29d2 = L.map(
                 {
                     center: [1.3494661, 103.8405051],
                     crs: L.CRS.EPSG3857,
-                    zoom: 12,
+                    zoom: 11,
                     zoomControl: true,
                     preferCanvas: false,
                 }

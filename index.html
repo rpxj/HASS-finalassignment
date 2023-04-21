@@ -472,20 +472,28 @@ d3.csv("mrt_bbt.csv", function(data_2) {
           d2.fx = null;
           d2.fy = null;
         };
-    
-    node_2.on("mouseover", function(d2) {
-    // Show tooltip with count and name
-            tooltip.transition()
-                .duration(200)
-                .style("opacity", .9);
+
+        node_2.on("mouseover", function(d2) {
+            // get mouse coordinates
+            var mouseCoords = d3.mouse(this);
+            var mouseX = mouseCoords[0];
+            var mouseY = mouseCoords[1];
+  
+            // update position of tooltip
+            tooltip.style("left", mouseX + "px")
+                    .style("top", mouseY + "px");
+  
+            // update content of tooltip
             tooltip.html(d2.STN_NAME + "<br/>" + d2.Count);
-            })
+  
+            // show tooltip
+            tooltip.style("opacity", 1);
+        })
         .on("mouseout", function(d2) {
-        // Hide tooltip on mouseout
-        tooltip.transition()
-            .duration(500)
-            .style("opacity", 0);
-});
+            // hide tooltip
+            tooltip.style("opacity", 0);
+        });
+
 });
 
 //Map

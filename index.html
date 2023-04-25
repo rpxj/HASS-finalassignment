@@ -41,31 +41,29 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
      h1{
         display: block;
         font-family: 'Tilt Neon', cursive;
-        color: #381a00;
+        color: rgb(65, 0, 0);
         text-align: center;
         font-size: 7em;
-        padding-top: 1em;
-        padding-left: 1em;
      }
 
      h2{
         display: block;
         font-family: 'Tilt Neon', cursive;
         text-align: left;
-        font-size: 3em;
+        font-size: 4em;
         padding-bottom: 0.5em;
-        padding-top: 1em;
-        padding-left: 1em;
-        padding-right: 1em;
+        padding-top: 2em;
+        padding-left: 1.4em;
+        padding-right: 1.4em;
      }
 
      p{
         font-family: 'Barlow';
         text-align: left;
-        font-size: 1.2em;
+        font-size: 1.8em;
         line-height: 2em;
-        padding-left: 2.5em;
-        padding-right: 2.5em;
+        padding-left: 3em;
+        padding-right: 3em;
         
      }
 
@@ -98,43 +96,23 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
 
      .main-title{
         position: absolute;
-        top: 10%;
+        top: 25%;
         left: 48%;
         transform: translate(-50%, -10%);
         opacity: 0;
      }
      
-     #reveal1 {
-		opacity: 0;
-		-webkit-transform: scale(0.9);
-			 -moz-transform: scale(0.9);
-				-ms-transform: scale(0.9);
-				 -o-transform: scale(0.9);
-						transform: scale(0.9);
-		-webkit-transition: all 1s ease-in-out;
-			 -moz-transition: all 1s ease-in-out;
-				-ms-transition: all 1s ease-in-out;
-				 -o-transition: all 1s ease-in-out;
-						transition: all 1s ease-in-out;
-	}
-	#reveal1.visible {
-		opacity: 1;
-		-webkit-transform: none;
-			 -moz-transform: none;
-				-ms-transform: none;
-				 -o-transform: none;
-						transform: none;
-	}
-
     #map_a3d00abc80212af2517dcddab57f29d2 {
         position: relative;
-        left: 2.5em;
-        top: 0.0%;
+        left: 5.3rem;
+        top: 2rem;
         width: 100rem;
         height: 50rem;
-        padding-left: 1em;}
+       }
                 
-    .leaflet-container { font-size: 1rem; }
+    .leaflet-container { 
+        font-size: 1rem;
+    }
  
     .panel {
         display: flex;
@@ -165,34 +143,34 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         width: 100%;
         margin: 0 auto;
         padding: 0;
-        padding-bottom: 3em;
+        padding-bottom: 5em;
         box-sizing: border-box;
-      }
+    }
     
-      #text2 {
+    #text2 {
         width: 100%;
         align-items: top;
         padding-top: 0;
         box-sizing: border-box;
         font-family: 'Barlow';
-      }
+    }
       
     .legend {
         position:relative;    
-        left: 2.5em;
-            background-color: none;
-            padding-bottom: -30px;
-            border: none;
-            font-size: 1.2em;
-            font-family: 'Barlow';
-            }
+        left: 4em;
+        background-color: none;
+        padding-bottom: -30px;
+        border: none;
+        font-size: 1.4em;
+        font-family: 'Barlow';
+    }
 
     .circle {
         display: inline-block;
         border-radius: 50%;
         margin-right: 1em;
         margin-left: 2em;
-        }
+    }
 
     .small {
         width: 15px;
@@ -201,14 +179,14 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
     }
 
     .medium {
-        width: 25px;
-        height: 25px;
+        width: 30px;
+        height: 30px;
         background-color: #723600;
     }
 
     .large {
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         background-color: #FCB900;
     }
 
@@ -283,7 +261,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
             <h2 style="padding-top: 1em;">Selecting a Store Location</h2>
             <p>Choosing the right spot to start your bubble tea store requires an understanding about consumers and the market. Many bubble tea shops are set up near train stations as they have high footfall. The density of bubble tea shops, and by extension intensity of competition, near each train station is the highest in the Central Business District Area. Perhaps because high stress, sleep deprived and high earning power workers make ideal customers.</p>
         
-            <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 1.5em;"><strong>Number of BBT stores near MRT stations in Singapore</strong></p>
+            <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 2.8em;"><strong>Number of BBT stores near MRT stations in Singapore</strong></p>
             <div class="legend">
                 <span><strong>Legend:</strong></span>
                 <span class="circle large"></span><span>10 or more stores</span>
@@ -301,22 +279,27 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         <div class="row appear"> 
             <div class="col-lg-6 col-md-6 col-sm-12" style="padding-top: 2.5em;">
                 <h2>Many Stations Have 10 or More BBT Stores Near Them</h2>
-                <p>Surprisingly, <b>three quarters</b> of the stations with the most BBT stores are in the CBD! Regional hubs like Jurong East and Tampines rank among the top regions with the most BBT stores. There are around <b>60 brands</b> of BBT and <b>562 BBT stores</b> in Singapore in 2023. Experts have called this a purple ocean market - hypercompetitive and oversaturated. BBT brands with the most number of stores are LiHO Tea (103) and KOI (82).</p>
-                <img src="NumberofStores.svg" style="width: 95%; padding-top: 2em;">
+                <p>Surprisingly, <b>three quarters</b> of the stations with the most BBT stores are in the CBD! Regional hubs like Jurong East and Tampines rank among the top regions with the most BBT stores. </p>
             </div>
-        
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div id="bubble"></div>
             </div>
         </div>
 
-    
-        <div class="panel one">
+        <section class="panel one">
+            <div class="appear">
+                <h2>Who are the Top Competitors? </h2>
+                <p>There are around <b>60 brands</b> of BBT and <b>562 BBT stores</b> in Singapore in 2023. Experts have called this a purple ocean market - hypercompetitive and oversaturated. BBT brands with the most number of stores are LiHO Tea (103) and KOI (82).</p>
+                <img src="NumberofStores.svg" style="width: 90%; padding-top: 3em; padding-bottom: 6em;">
+             </div>
+        </section>
+        
+        <div class="panel two">
             <div class="appear">
                 <h2>Conclusion</h2>
                 <p>While Singaporean's love affair with bubble tea is here to stay, the data shows that it is not easy to enter the bubble tea market and compete successfully in it.</p>
-                <p style="padding-bottom: 20em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
-            </div>
+                <p style="padding-bottom: 15em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
+        </div>
         </div>
     </div>
 </div>
@@ -354,10 +337,10 @@ const sr = ScrollReveal({
     reset: true
 });
 
-/*Data*/
+/*===== Data =====*/
 sr.reveal('.appear',{origin: 'left',distance: '70px'}); 
 
-//Boba Bubble Chart
+/*===== Boba Bubble Chart =====*/
 // set the dimensions and margins of the graph
 var width_2 = 600
 var height_2 = 600
@@ -374,7 +357,7 @@ svg_2.append("text")
     .attr("y",height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
-    .style("font-size", "1.2em")
+    .style("font-size", "1.8em")
     .text("1-4 Stores");
 
 svg_2.append("text")
@@ -382,7 +365,7 @@ svg_2.append("text")
     .attr("y", height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
-    .style("font-size", "1.2em")
+    .style("font-size", "1.8em")
     .text("5-9 Stores");
 
 svg_2.append("text")
@@ -390,7 +373,7 @@ svg_2.append("text")
     .attr("y", height_2/6)
     .attr("text-anchor", "middle")
     .style("font-family", 'Barlow')
-    .style("font-size", "1.2em")
+    .style("font-size", "1.8em")
     .text("10 or more Stores");
 
 // A color scale

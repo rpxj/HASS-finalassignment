@@ -214,6 +214,23 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
         position: absolute;
     }
 
+    .chartCard {
+        width: 45%;
+        height: 45%;
+        padding: 20px;
+        background:  rgb(255, 242, 235);
+        display: flex;
+        align-self: stretch;
+        justify-content: stretch;
+      }
+      .chartBox {
+        width: 100%;
+        padding: 50px;
+        border-radius: 10px;
+        /*border: solid 3px rgb(71, 31, 33);*/ 
+        background: rgb(255, 242, 235);
+      }
+
     </style>
 
 <title>Assignment5</title>
@@ -233,8 +250,73 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
     <div class="content">
         <div class="appear">
             <h2>Southeast Asia Spends US$3.7B on Boba </h2>
-            <p>Para on the Southeast Asian Bubble Tea market – Bubble map to show the size of the market for each country in Southeast Asia.</p>
-            <p style="padding-bottom: 25em;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque repellat quibusdam obcaecati odit molestiae sequi veritatis excepturi minima quis sed quo architecto vel, ullam officia? Hic sit incidunt necessitatibus tempore.</p>
+            <p>Southeast Asia loves bubble tea or boba, Indonesia and Thailand are market leaders in terms of annual turnover, spending a whopping US$748 million and US$1.6 billion in 2021.</p>
+            <p>Indonesians have taken to ordering their favourite bubble teas on delivery platforms throughout the pandemic. Since opening up again, retail sales have been recovering well,but they are sharing the sales with delivery platforms because of bad traffic and hot weather.</br>
+            <p>Thai consumers drink the most bubble tea on average compared to the rest of us. According to restaurant review platform <i>Wongnai </i> there are more than 31 thousand bubble tea shops in the kingdom.</br>
+            <p> What Singapore lacks in population size, it makes up with spending power. Paying an average price of US$3.90 for a regular standard-sized cup of sugary bliss of the same brand and product, compared to US$2 in the rest of Southeast Asia. 
+            </p>
+        
+        <!--Start of SEA Introduction-->
+            <div>
+                <div class="chartCard">
+                    <div class="chartBox">
+                  <canvas id="myChart"></canvas>
+                </div>
+              
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.3/d3.min.js" integrity="sha512-Bg2eiKHzTFFm3RXa2xWihCacicF47EiEtkk/qD2UpqimWHNnQsIJxuwrf958rNHVvkpcjRgUyPblU6LOoAxTSA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+                 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+              <script>
+                const chartData = "SEA_annual_turnover.csv";
+                
+                //parse the file from CSV to JSON
+                d3.csv(chartData).then(function(datapoints){
+                  console.log(datapoints)
+                  const annualTurnover = [];
+                  const Countries = [];
+            
+                  for (i = 0; i < datapoints.length; i ++ ) {
+                    annualTurnover.push(datapoints[i].annualTurnover)
+                    Countries.push(datapoints[i].Countries)
+                  } 
+                   
+                  // setup 
+                  const data = {
+                    labels: Countries,
+                    datasets: [{
+                      label: 'Annual Turnover in US$',
+                      data: annualTurnover,
+                      backgroundColor: [ 
+                       'rgb(153, 181, 222)',
+
+                      ],
+                      
+                      borderWidth: 1
+                    }]
+                  };
+            
+                  // config 
+                  const config = {
+                    type: 'bar',
+                    data,
+                    options: {
+                      scales: {
+                        y: {
+                          beginAtZero: true
+                        }
+                      }
+                    }
+                  };
+                  
+                  // render init block
+                  const myChart = new Chart(
+                    document.getElementById('myChart'),
+                    config
+                  );
+            
+                });
+            
+              </script>
+    <!--End of SEA Introduction-->
         </div>
 
         <section class="panel one">

@@ -267,66 +267,65 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
             <div class="col-lg-8 col-md-12 col-sm-12">
                 <div class="chartCard">
                     <div class="chartBox">
-                  <canvas id="myChart"></canvas>
-                </div>
+                        <canvas id="myChart"></canvas>
+                    </div>
               
-              <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.3/d3.min.js" integrity="sha512-Bg2eiKHzTFFm3RXa2xWihCacicF47EiEtkk/qD2UpqimWHNnQsIJxuwrf958rNHVvkpcjRgUyPblU6LOoAxTSA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-                 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-              <script>
-                const chartData = "SEA_annual_turnover.csv";
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.3/d3.min.js" integrity="sha512-Bg2eiKHzTFFm3RXa2xWihCacicF47EiEtkk/qD2UpqimWHNnQsIJxuwrf958rNHVvkpcjRgUyPblU6LOoAxTSA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+                    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                    <script>
+                        const chartData = "SEA_annual_turnover.csv";
                 
-                //parse the file from CSV to JSON
-                d3.csv(chartData).then(function(datapoints){
-                  console.log(datapoints)
-                  const annualTurnover = [];
-                  const Countries = [];
-            
-                  for (i = 0; i < datapoints.length; i ++ ) {
-                    annualTurnover.push(datapoints[i].annualTurnover)
-                    Countries.push(datapoints[i].Countries)
-                  } 
-                   
-                  // setup 
-                  const data = {
-                    labels: Countries,
-                    datasets: [{
-                      label: 'Annual Turnover in US$',
-                      data: annualTurnover,
-                      backgroundColor: [ 
-                       'rgb(153, 181, 222)',
+                        //parse the file from CSV to JSON
+                        d3.csv(chartData).then(function(datapoints){
+                        console.log(datapoints)
+                        const annualTurnover = [];
+                        const Countries = [];
+                    
+                        for (i = 0; i < datapoints.length; i ++ ) {
+                            annualTurnover.push(datapoints[i].annualTurnover)
+                            Countries.push(datapoints[i].Countries)
+                        } 
+                        
+                        // setup 
+                        const data = {
+                            labels: Countries,
+                            datasets: [{
+                            label: 'Annual Turnover in US$',
+                            data: annualTurnover,
+                            backgroundColor: [ 
+                            'rgb(153, 181, 222)',
 
-                      ],
-                      
-                      borderWidth: 1
-                    }]
-                  };
-            
-                  // config 
-                  const config = {
-                    type: 'bar',
-                    data,
-                    options: {
-                      scales: {
-                        y: {
-                          beginAtZero: true
-                        }
-                      }
-                    }
-                  };
-                  
-                  // render init block
-                  const myChart = new Chart(
-                    document.getElementById('myChart'),
-                    config
-                  );
-            
-                });
-            
-              </script>
-    <!--End of SEA Introduction-->
-             </div>
-        </div>
-        
+                            ],
+                            
+                            borderWidth: 1
+                            }]
+                        };
+                    
+                        // config 
+                        const config = {
+                            type: 'bar',
+                            data,
+                            options: {
+                            scales: {
+                                y: {
+                                beginAtZero: true
+                                }
+                            }
+                            }
+                        };
+                        
+                        // render init block
+                        const myChart = new Chart(
+                            document.getElementById('myChart'),
+                            config
+                        );
+                    
+                        });
+                    </script>
+             <!--End of SEA Introduction-->
+                </div>
+            </div>
+    </div>
 
         <section class="panel one">
             <div id="container2" class="row appear">
@@ -392,7 +391,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
                 <h2>Conclusion</h2>
                 <p>While Singaporean's love affair with bubble tea is here to stay, the data shows that it is not easy to enter the bubble tea market and compete successfully in it.</p>
                 <p style="padding-bottom: 15em; font-style: italic;">The data from this study comes from <a href="https://thelowdown.momentum.asia/press-release-southeast-asia-spends-us3-66-billion-a-year-on-bubble-tea-momentum-works-qlub-report/">'Bubble Tea - The business behind Southeast Asia's favourite drink' by Momentum Works and qlub in Aug 2022</a>; as well as Google maps data on bubble tea shops in Singapore. Credits to <a href="https://www.kaggle.com/code/glenteoh/bubble-tea-shops-by-mrt-station-in-singapore">Glen Teoh </a>for the Python code for Bubble Tea Shops near MRT Stations in Singapore.</p>
-        </div>
+            </div>
         </div>
     </div>
 </div>

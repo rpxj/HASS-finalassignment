@@ -225,7 +225,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
     .chartCard {
         width: 100%;
         height: 100%;
-        padding: 20px;
+        padding: 10px;
         background:  rgb(255, 242, 235);
         display: flex;
         align-self: stretch;
@@ -353,14 +353,14 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
                 <!--Line Chart Set-up-->
                 </div>
                 <div class="col">
-                    <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 3.5em; padding-bottom: 0;"><strong>Import of Tapoica Products to Singapore in Tonnes (2011 - 2021)</strong></p>
+                    <p style="font-size: 2em; text-align: left; padding-top: 2em; padding-left: 6em; padding-bottom: 0;"><strong>Import of Tapoica Products to Singapore in Tonnes (2011 - 2021)</strong></p>
                     <div id="my_dataviz"></div>     
                     <script src="https://d3js.org/d3.v4.min.js"></script>
-                    <style>.myCircle:hover {stroke: black;}</style>
+                    <style>.myCircle:hover {stroke: rgb(252, 88, 115);}</style>
                     <script>
                     
                         // set the dimensions and margins of the graph
-                    var margin = {top: 80, right: 30, bottom: 30, left: 80},
+                    var margin = {top: 30, right: 30, bottom: 30, left: 100},
                         width = 800 - margin.left - margin.right,
                         height = 400 - margin.top - margin.bottom;
 
@@ -431,7 +431,7 @@ html {width: 100%; height: 100%; margin: 0;padding: 0;}
                             // update content of tooltip
                             Tooltip.html("Import in Tonnes: " + d.Import)
                                     .style("left", (d3.mouse(this)[0]+70) + "px")
-                                    .style("top", (d3.mouse(this)[1]+700) + "px")
+                                    .style("top", (d3.mouse(this)[1]+650) + "px")
                                     .style("font-size", 15 + "px")
                                     .style("font-family", "Barlow")
                                         }

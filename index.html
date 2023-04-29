@@ -590,7 +590,7 @@ gsap.to(".main-title", {
   filter: "glow(70px 70px 30px rgba(255, 255, 255))",
 });
 
-if (window.innerWidth > 768){
+if (window.matchMedia("(min-width: 768px)").matches){
     /*====== SCROLL REVEAL SECTION ======*/
 const sr = ScrollReveal({
     origin:top,
